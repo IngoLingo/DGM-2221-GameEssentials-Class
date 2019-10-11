@@ -1,27 +1,87 @@
 //Maya ASCII 2019 scene
-//Name: MainScene.ma
-//Last modified: Thu, Oct 10, 2019 05:55:11 PM
+//Name: _MainScene.ma
+//Last modified: Fri, Oct 11, 2019 01:28:25 PM
 //Codeset: 1252
 file -rdi 1 -ns "BG_BeanStalks_Reference" -dr 1 -rfn "BG_BeanStalks_ReferenceRN"
-		 -op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/BG_BeanStalks_Reference.ma";
+		 -op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/BG_BeanStalks_Reference.ma";
 file -rdi 1 -ns "MovingVine_Reference1" -dr 1 -rfn "MovingVine_ReferenceRN"
-		 -op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/MovingVine_Reference.ma";
+		 -op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/MovingVine_Reference.ma";
 file -rdi 1 -ns "StillVine_Reference" -rfn "StillVine_ReferenceRN" -op "v=0;"
-		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/StillVine_Reference.ma";
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
 file -rdi 1 -ns "StillVine_Reference1" -rfn "StillVine_ReferenceRN1" -op "v=0;"
-		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/StillVine_Reference.ma";
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
 file -rdi 1 -ns "BG_BeanStalks_Reference2" -rfn "BG_BeanStalks_ReferenceRN1"
-		 -op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/BG_BeanStalks_Reference.ma";
+		 -op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/BG_BeanStalks_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference2" -dr 1 -rfn "StillVine_ReferenceRN2" 
+		-op "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference3" -rfn "StillVine_Reference2RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference4" -rfn "StillVine_Reference2RN1" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference5" -rfn "StillVine_Reference3RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference6" -rfn "StillVine_Reference2RN2" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference7" -rfn "StillVine_Reference3RN1" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference8" -rfn "StillVine_Reference4RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference9" -rfn "StillVine_Reference5RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference10" -rfn "StillVine_Reference6RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference11" -rfn "StillVine_Reference7RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference12" -rfn "StillVine_Reference8RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference13" -rfn "StillVine_Reference9RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference14" -rfn "StillVine_ReferenceRN3" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference15" -rfn "StillVine_ReferenceRN4" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -rdi 1 -ns "StillVine_Reference16" -rfn "StillVine_ReferenceRN5" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
 file -r -ns "BG_BeanStalks_Reference" -dr 1 -rfn "BG_BeanStalks_ReferenceRN" -op
-		 "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/BG_BeanStalks_Reference.ma";
+		 "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/BG_BeanStalks_Reference.ma";
 file -r -ns "MovingVine_Reference1" -dr 1 -rfn "MovingVine_ReferenceRN" -op "v=0;"
-		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/MovingVine_Reference.ma";
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/MovingVine_Reference.ma";
 file -r -ns "StillVine_Reference" -dr 1 -rfn "StillVine_ReferenceRN" -op "v=0;" 
-		-typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/StillVine_Reference.ma";
+		-typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
 file -r -ns "StillVine_Reference1" -dr 1 -rfn "StillVine_ReferenceRN1" -op "v=0;"
-		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/StillVine_Reference.ma";
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
 file -r -ns "BG_BeanStalks_Reference2" -dr 1 -rfn "BG_BeanStalks_ReferenceRN1" -op
-		 "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice/scenes/BG_BeanStalks_Reference.ma";
+		 "v=0;" -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/BG_BeanStalks_Reference.ma";
+file -r -ns "StillVine_Reference2" -dr 1 -rfn "StillVine_ReferenceRN2" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference3" -dr 1 -rfn "StillVine_Reference2RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference4" -dr 1 -rfn "StillVine_Reference2RN1" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference5" -dr 1 -rfn "StillVine_Reference3RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference6" -dr 1 -rfn "StillVine_Reference2RN2" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference7" -dr 1 -rfn "StillVine_Reference3RN1" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference8" -dr 1 -rfn "StillVine_Reference4RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference9" -dr 1 -rfn "StillVine_Reference5RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference10" -dr 1 -rfn "StillVine_Reference6RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference11" -dr 1 -rfn "StillVine_Reference7RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference12" -dr 1 -rfn "StillVine_Reference8RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference13" -dr 1 -rfn "StillVine_Reference9RN" -typ "mayaAscii"
+		 "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference14" -dr 1 -rfn "StillVine_ReferenceRN3" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference15" -dr 1 -rfn "StillVine_ReferenceRN4" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
+file -r -ns "StillVine_Reference16" -dr 1 -rfn "StillVine_ReferenceRN5" -op "v=0;"
+		 -typ "mayaAscii" "D:/Documents - DataDrive/_School/2019 Fall/_RepoClones/DGM-2221-GameEssentials-Class/Maya - Rayman Legends Orchestral Chaos - Game Slice//scenes/StillVine_Reference.ma";
 requires maya "2019";
 requires -nodeType "HIKSolverNode" -nodeType "HIKCharacterNode" -nodeType "HIKControlSetNode"
 		 -nodeType "HIKFK2State" -nodeType "HIKState2SK" -nodeType "HIKProperty2State" -dataType "HIKCharacter"
@@ -39,15 +99,14 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "D5FFA73A-464B-F049-D49C-698932FBCD5A";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 3.3790806169644174 -0.45013537558473526 38.276430913565747 ;
-	setAttr ".r" -type "double3" -2.9999999999988538 2.8000000000004786 -1.2438892053203122e-16 ;
-	setAttr ".rp" -type "double3" -8.8817841970012523e-16 3.5527136788005009e-15 7.1054273576010019e-15 ;
-	setAttr ".rpt" -type "double3" -2.8905866392844749e-15 -7.0984330141903486e-16 -1.5258520982584593e-14 ;
+	setAttr ".t" -type "double3" 0.26694148968024489 0.91989193392534763 41.780797395783708 ;
+	setAttr ".rp" -type "double3" 0 -8.3266726846886741e-17 -7.1054273576010019e-15 ;
+	setAttr ".rpt" -type "double3" -4.0148251710370427e-15 -9.651040264421684e-16 -1.5145304340512378e-14 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "15981591-4FB8-1C4C-119A-E699DBD0469E";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 40.616913485800239;
+	setAttr ".coi" 41.780797395783708;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -111,6 +170,7 @@ createNode transform -n "OldStuff";
 	rename -uid "FF35F9AA-491E-DF51-6F02-5CB22ACD2C84";
 createNode transform -n "vinetests" -p "OldStuff";
 	rename -uid "90FEE977-4F4E-89B2-BE31-60BE053087FF";
+	setAttr ".v" no;
 createNode transform -n "pCone1" -p "vinetests";
 	rename -uid "53984DC6-4248-5CAD-3244-FFBAF659459E";
 	addAttr -is true -ci true -k true -sn "currentUVSet" -ln "currentUVSet" -dt "string";
@@ -4146,7 +4206,6 @@ createNode mesh -n "pCone16Shape" -p "pCone16";
 createNode transform -n "disktest" -p "OldStuff";
 	rename -uid "F1A62BC4-42D7-81CC-C0A9-84B43FBA9AFD";
 	addAttr -is true -ci true -k true -sn "currentUVSet" -ln "currentUVSet" -dt "string";
-	setAttr ".v" no;
 	setAttr ".t" -type "double3" 0 2.4533422688005566 -2.4475979804992676 ;
 	setAttr ".r" -type "double3" 90 0 0 ;
 	setAttr ".s" -type "double3" 3.6605785142239831 1 3.6605785142239831 ;
@@ -4313,7 +4372,6 @@ createNode mesh -n "disktestShape" -p "disktest";
 createNode transform -n "groundtest" -p "OldStuff";
 	rename -uid "7A916C37-4FAF-1160-F0D6-A4AD0CC84A84";
 	addAttr -is true -ci true -k true -sn "currentUVSet" -ln "currentUVSet" -dt "string";
-	setAttr ".v" no;
 	setAttr ".t" -type "double3" 0 -175.45623915328014 -1908.6174721841467 ;
 	setAttr ".r" -type "double3" 0.52521475995313416 0 0 ;
 	setAttr ".s" -type "double3" 10609.570427080689 3.780315314864652 5144.5173287591169 ;
@@ -4645,7 +4703,6 @@ createNode mesh -n "groundtestShape" -p "groundtest";
 createNode transform -n "skytest" -p "OldStuff";
 	rename -uid "4B05418F-4C86-7CFA-4AEC-2F998864BADD";
 	addAttr -is true -ci true -k true -sn "currentUVSet" -ln "currentUVSet" -dt "string";
-	setAttr ".v" no;
 	setAttr ".t" -type "double3" 0 254.4782836918034 -564.89808858796107 ;
 	setAttr ".r" -type "double3" 139.78853155149349 0 0 ;
 	setAttr ".s" -type "double3" 1158.8122702602871 3.780315314864652 646.17816925211139 ;
@@ -4993,7 +5050,7 @@ createNode transform -n "KEEP_GEOS";
 	rename -uid "69A04235-4313-C421-2D81-24A8EDF8A5E5";
 createNode transform -n "Drum_Reference:geo_Drum" -p "KEEP_GEOS";
 	rename -uid "70AB727A-4F89-1EE5-188F-C49F67851F7D";
-	setAttr ".t" -type "double3" -21.759038402690308 -6.2836250373470426 4.3937688555942724 ;
+	setAttr ".t" -type "double3" -22.705700035701305 -6.2836250373470426 4.3937688555942724 ;
 	setAttr ".s" -type "double3" 1.5 1.5 1.5 ;
 	setAttr ".rp" -type "double3" 0 -0.15797868371009827 0 ;
 	setAttr ".sp" -type "double3" 0 -0.15797868371009827 0 ;
@@ -22943,17 +23000,17 @@ createNode mesh -n "Drum_Reference:DrumRopeShape6" -p "Drum_Reference:DrumRope6"
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:geo_Drum" -p "KEEP_GEOS";
-	rename -uid "70AB727A-4F89-1EE5-188F-C49F67851F7D";
-	setAttr ".t" -type "double3" -39.962082684165253 -7.5168265017501437 4.3937688555942724 ;
+	rename -uid "24FE72D6-4FCD-7C34-6446-EFAD1481F1CB";
+	setAttr ".t" -type "double3" -42.316593962957107 -7.5168265017501437 4.3937688555942724 ;
 	setAttr ".s" -type "double3" 1.5 1.5 1.5 ;
 	setAttr ".rp" -type "double3" 0 -0.15797868371009827 0 ;
 	setAttr ".sp" -type "double3" 0 -0.15797868371009827 0 ;
 createNode transform -n "Drum_Reference1:DrumBody" -p "Drum_Reference1:geo_Drum";
-	rename -uid "BDB55610-4CAF-2F26-F676-40BE7A50F5B6";
+	rename -uid "65CAC5DE-45C5-CBB8-5177-5D85542F52EE";
 	setAttr ".rp" -type "double3" -1.0728836059570313e-06 -0.15797868371009827 -9.5367431640625e-07 ;
 	setAttr ".sp" -type "double3" -1.0728836059570313e-06 -0.15797868371009827 -9.5367431640625e-07 ;
 createNode mesh -n "Drum_Reference1:DrumBodyShape" -p "Drum_Reference1:DrumBody";
-	rename -uid "277E0796-4574-C2C3-43F6-EE8ACB4A0979";
+	rename -uid "ECC9F863-4D83-16CD-66E0-9EB55FCDEFCE";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -23755,11 +23812,11 @@ createNode mesh -n "Drum_Reference1:DrumBodyShape" -p "Drum_Reference1:DrumBody"
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumWoodPole1" -p "Drum_Reference1:geo_Drum";
-	rename -uid "BC1427C1-45CA-F046-95FB-199535365865";
+	rename -uid "F51B8BF9-4668-994E-BBEA-C1A3A5747EC7";
 	setAttr ".rp" -type "double3" 0 0.14091811701655388 0 ;
 	setAttr ".sp" -type "double3" 0 0.14091811701655388 0 ;
 createNode mesh -n "Drum_Reference1:DrumWoodPoleShape1" -p "Drum_Reference1:DrumWoodPole1";
-	rename -uid "3BE7FFEC-48C8-2090-5115-388453AEBC6A";
+	rename -uid "9FEBDE52-49BA-08F8-A15E-F4B8A11982CA";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -23892,11 +23949,11 @@ createNode mesh -n "Drum_Reference1:DrumWoodPoleShape1" -p "Drum_Reference1:Drum
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumWoodPole2" -p "Drum_Reference1:geo_Drum";
-	rename -uid "ED7FEAA6-44E9-9579-1A97-059C3CD4D8F3";
+	rename -uid "30AD098C-4297-55FF-0079-B5B3E2FB1A06";
 	setAttr ".rp" -type "double3" 5.9604644775390625e-08 0.14091813564300537 0 ;
 	setAttr ".sp" -type "double3" 5.9604644775390625e-08 0.14091813564300537 0 ;
 createNode mesh -n "Drum_Reference1:DrumWoodPoleShape2" -p "Drum_Reference1:DrumWoodPole2";
-	rename -uid "8B10514B-4306-D6E3-B99C-96BD3D360139";
+	rename -uid "A93AB84F-41A4-C878-65E6-498CEDE632A5";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -24038,11 +24095,11 @@ createNode mesh -n "Drum_Reference1:DrumWoodPoleShape2" -p "Drum_Reference1:Drum
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumWoodPole3" -p "Drum_Reference1:geo_Drum";
-	rename -uid "DCC97BAF-4ADE-FC18-71BD-7196BF1270FD";
+	rename -uid "A19B9212-46B3-2DD2-979F-BA8CE08C551C";
 	setAttr ".rp" -type "double3" 0 0.14091813564300537 -2.9802322387695313e-08 ;
 	setAttr ".sp" -type "double3" 0 0.14091813564300537 -2.9802322387695313e-08 ;
 createNode mesh -n "Drum_Reference1:DrumWoodPoleShape3" -p "Drum_Reference1:DrumWoodPole3";
-	rename -uid "4AFAF928-4F11-66F1-95F9-67BD03BF4CDC";
+	rename -uid "983C326B-4CE8-D87B-D275-1BBF33E8076F";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -24184,11 +24241,11 @@ createNode mesh -n "Drum_Reference1:DrumWoodPoleShape3" -p "Drum_Reference1:Drum
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumRope1" -p "Drum_Reference1:geo_Drum";
-	rename -uid "1540762B-4DBC-67CD-6FD4-B58F90FF3845";
+	rename -uid "239727F4-42AC-7064-A752-01BACA319477";
 	setAttr ".rp" -type "double3" 0.9692005068063736 -0.21757210791110992 1.4238426089286804 ;
 	setAttr ".sp" -type "double3" 0.9692005068063736 -0.21757210791110992 1.4238426089286804 ;
 createNode mesh -n "Drum_Reference1:DrumRopeShape1" -p "Drum_Reference1:DrumRope1";
-	rename -uid "33822764-4D4F-E7AE-FB3D-6E86F29267CA";
+	rename -uid "624F2BE6-4CF0-6DC2-8AD0-FF8363010299";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -26969,11 +27026,11 @@ createNode mesh -n "Drum_Reference1:DrumRopeShape1" -p "Drum_Reference1:DrumRope
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumRope2" -p "Drum_Reference1:geo_Drum";
-	rename -uid "BBA9DCA3-41B7-AD63-6EF0-BA9F9D15C889";
+	rename -uid "8DCA3A5A-4574-30D9-6B8D-538F9B6BA3D9";
 	setAttr ".rp" -type "double3" 1.8032926917076111 -0.21757210791110992 -0.14563965797424316 ;
 	setAttr ".sp" -type "double3" 1.8032926917076111 -0.21757210791110992 -0.14563965797424316 ;
 createNode mesh -n "Drum_Reference1:DrumRopeShape2" -p "Drum_Reference1:DrumRope2";
-	rename -uid "82745F96-43FB-B1F7-CF4C-908C10A1B793";
+	rename -uid "7DFDDD91-4C61-D308-E70A-B68AB0F5EE5B";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -29754,11 +29811,11 @@ createNode mesh -n "Drum_Reference1:DrumRopeShape2" -p "Drum_Reference1:DrumRope
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumRope3" -p "Drum_Reference1:geo_Drum";
-	rename -uid "9559C5AC-419F-E060-A177-B9951AE10006";
+	rename -uid "22D19F01-4888-2C72-032E-D7A7F61FC90F";
 	setAttr ".rp" -type "double3" 0.68151727318763733 -0.21757210791110992 -1.6085454225540161 ;
 	setAttr ".sp" -type "double3" 0.68151727318763733 -0.21757210791110992 -1.6085454225540161 ;
 createNode mesh -n "Drum_Reference1:DrumRopeShape3" -p "Drum_Reference1:DrumRope3";
-	rename -uid "77D14D63-4D9C-C79E-1094-25BA3454D340";
+	rename -uid "DB39FF09-4BEE-DFC6-655D-E1A5DF43671A";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -32539,11 +32596,11 @@ createNode mesh -n "Drum_Reference1:DrumRopeShape3" -p "Drum_Reference1:DrumRope
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumRope4" -p "Drum_Reference1:geo_Drum";
-	rename -uid "A694C13C-4E8E-7CF2-A607-E7BCD3AB927C";
+	rename -uid "DF93A4F0-4C88-3210-D832-9CBF1072AF33";
 	setAttr ".rp" -type "double3" -0.96920046210289001 -0.21757210791110992 -1.4238425493240356 ;
 	setAttr ".sp" -type "double3" -0.96920046210289001 -0.21757210791110992 -1.4238425493240356 ;
 createNode mesh -n "Drum_Reference1:DrumRopeShape4" -p "Drum_Reference1:DrumRope4";
-	rename -uid "A2325AFD-4D73-551D-EB12-3FA1860BA1B3";
+	rename -uid "0330C7FC-4717-3FC5-E59C-83832F069019";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -35324,11 +35381,11 @@ createNode mesh -n "Drum_Reference1:DrumRopeShape4" -p "Drum_Reference1:DrumRope
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumRope5" -p "Drum_Reference1:geo_Drum";
-	rename -uid "E493A902-45A5-72BF-EECB-D7831A474008";
+	rename -uid "4D28A32C-45E2-5EAD-51A9-029A536516E8";
 	setAttr ".rp" -type "double3" -1.8032926917076111 -0.21757210791110992 0.14563965797424316 ;
 	setAttr ".sp" -type "double3" -1.8032926917076111 -0.21757210791110992 0.14563965797424316 ;
 createNode mesh -n "Drum_Reference1:DrumRopeShape5" -p "Drum_Reference1:DrumRope5";
-	rename -uid "C683BA4A-480B-2BC8-5DD8-D4A22F169B4E";
+	rename -uid "435C1E03-41B5-092C-9C4A-B38AD2AE4A3C";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -38109,11 +38166,11 @@ createNode mesh -n "Drum_Reference1:DrumRopeShape5" -p "Drum_Reference1:DrumRope
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Drum_Reference1:DrumRope6" -p "Drum_Reference1:geo_Drum";
-	rename -uid "2B0819DF-4FF6-C5C9-0FDC-B7AD65565397";
+	rename -uid "C6EA30B1-4604-AADE-BE2F-F4AC009AC07A";
 	setAttr ".rp" -type "double3" -0.6815173327922821 -0.21757210791110992 1.6085456609725952 ;
 	setAttr ".sp" -type "double3" -0.6815173327922821 -0.21757210791110992 1.6085456609725952 ;
 createNode mesh -n "Drum_Reference1:DrumRopeShape6" -p "Drum_Reference1:DrumRope6";
-	rename -uid "DC304D0F-493E-D030-7E83-66B4DB26F4A9";
+	rename -uid "C770D748-4225-7FBE-AFDB-969A0DD45376";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -40895,7 +40952,7 @@ createNode mesh -n "Drum_Reference1:DrumRopeShape6" -p "Drum_Reference1:DrumRope
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "BouncePadd_Reference:obj_BouncePad" -p "KEEP_GEOS";
 	rename -uid "A020FE5C-42C7-4331-D98D-839F45E061FA";
-	setAttr ".t" -type "double3" -10.435647761373723 -1.138157381260601 6.8103642741309454 ;
+	setAttr ".t" -type "double3" -11.574569137837392 -1.138157381260601 7.0169080109596367 ;
 	setAttr ".r" -type "double3" 12.460030299416406 0 0 ;
 	setAttr ".rp" -type "double3" 0.073727011680603027 1.0191381573677063 -0.044230341911315918 ;
 	setAttr ".sp" -type "double3" 0.073727011680603027 1.0191381573677063 -0.044230341911315918 ;
@@ -69655,22 +69712,29 @@ createNode mesh -n "TStand_Reference:tStandLeaf1Shape" -p "TStand_Reference:tSta
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode transform -n "Refrences_ReimportLater";
 	rename -uid "25A99B2E-495B-4F67-14E8-CBA417D02A69";
+createNode transform -n "Pointing_Vines" -p "Refrences_ReimportLater";
+	rename -uid "9A66FEFB-4EED-49AD-F1D0-0CBA884F57CA";
+	setAttr ".v" no;
+createNode transform -n "Beanstalks" -p "Refrences_ReimportLater";
+	rename -uid "B7CA26BF-4895-29EC-535D-14AA1891B759";
+createNode transform -n "keep_out_of_the_way";
+	rename -uid "BA3422EB-4782-A234-12CD-ACB8DB4DFCF3";
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "9190418F-461B-C4F6-CB6F-6D87135E435A";
-	setAttr -s 109 ".lnk";
-	setAttr -s 109 ".slnk";
+	rename -uid "BC2B0113-42B3-578F-FE7C-129918ACE00E";
+	setAttr -s 238 ".lnk";
+	setAttr -s 238 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "76F21CC8-4CAE-63C9-3CC1-6CBE84AD913F";
+	rename -uid "023C43BB-4C19-83E0-D92A-25ADD25432D7";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "C578B376-47E8-179F-CA3A-C2AF0079E51A";
+	rename -uid "B3221A62-4779-28C0-45AF-3BB4FAC629D4";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "72BC7FAE-4461-6C78-8B8E-8BABDDF4A9CA";
-	setAttr ".dli[1]"  2;
+	rename -uid "A4735B33-4D7D-EBE1-E60C-6BBD00F8AEE2";
+	setAttr -s 2 ".dli[1]"  2;
 	setAttr -s 2 ".dli";
 createNode displayLayer -n "defaultLayer";
 	rename -uid "9DF408BD-424F-8D7B-6EE6-698EF0F697CA";
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "2BFEF455-415E-913B-B61D-3B9BC25C9ECD";
+	rename -uid "11065CF7-46D6-E907-1A7B-AFA8A863D12E";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "10123B3F-4EB4-8421-B0FA-8382BC94461D";
 	setAttr ".g" yes;
@@ -69700,17 +69764,17 @@ createNode script -n "uiConfigurationScriptNode";
 		"// Maya Mel UI Configuration File.\n//\n//  This script is machine generated.  Edit at your own risk.\n//\n//\n\nglobal string $gMainPane;\nif (`paneLayout -exists $gMainPane`) {\n\n\tglobal int $gUseScenePanelConfig;\n\tint    $useSceneConfig = $gUseScenePanelConfig;\n\tint    $nodeEditorPanelVisible = stringArrayContains(\"nodeEditorPanel1\", `getPanel -vis`);\n\tint    $nodeEditorWorkspaceControlOpen = (`workspaceControl -exists nodeEditorPanel1Window` && `workspaceControl -q -visible nodeEditorPanel1Window`);\n\tint    $menusOkayInPanels = `optionVar -q allowMenusInPanels`;\n\tint    $nVisPanes = `paneLayout -q -nvp $gMainPane`;\n\tint    $nPanes = 0;\n\tstring $editorName;\n\tstring $panelName;\n\tstring $itemFilterName;\n\tstring $panelConfig;\n\n\t//\n\t//  get current state of the UI\n\t//\n\tsceneUIReplacement -update $gMainPane;\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Top View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Top View\")) -mbv $menusOkayInPanels  $panelName;\n"
 		+ "\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"top\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n"
 		+ "            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n"
-		+ "            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 652\n            -height 319\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n"
+		+ "            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 652\n            -height 321\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n"
 		+ "\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Side View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Side View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"side\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 0\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n"
 		+ "            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n"
-		+ "            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 651\n            -height 319\n"
+		+ "            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 651\n            -height 321\n"
 		+ "            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Front View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Front View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"front\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n"
 		+ "            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n"
 		+ "            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n"
-		+ "            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 652\n            -height 319\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"persp\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n"
+		+ "            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 652\n            -height 321\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"persp\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n"
 		+ "            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 0\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n"
 		+ "            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 0\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n"
-		+ "            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1314\n            -height 686\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"ToggledOutliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"ToggledOutliner\")) -mbv $menusOkayInPanels  $panelName;\n"
+		+ "            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 965\n            -height 690\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"ToggledOutliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"ToggledOutliner\")) -mbv $menusOkayInPanels  $panelName;\n"
 		+ "\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 1\n            -showReferenceMembers 1\n            -showAttributes 0\n            -showConnected 0\n            -showAnimCurvesOnly 0\n            -showMuteInfo 0\n            -organizeByLayer 1\n            -organizeByClip 1\n            -showAnimLayerWeight 1\n            -autoExpandLayers 1\n            -autoExpand 0\n            -showDagOnly 1\n            -showAssets 1\n            -showContainedOnly 1\n            -showPublishedAsConnected 0\n            -showParentContainers 0\n            -showContainerContents 1\n            -ignoreDagHierarchy 0\n            -expandConnections 0\n            -showUpstreamCurves 1\n            -showUnitlessCurves 1\n            -showCompounds 1\n            -showLeafs 1\n            -showNumericAttrsOnly 0\n            -highlightActive 1\n            -autoSelectNewObjects 0\n            -doNotSelectNewObjects 0\n            -dropIsParent 1\n"
 		+ "            -transmitFilters 0\n            -setFilter \"defaultSetFilter\" \n            -showSetMembers 1\n            -allowMultiSelection 1\n            -alwaysToggleSelect 0\n            -directSelect 0\n            -isSet 0\n            -isSetMember 0\n            -displayMode \"DAG\" \n            -expandObjects 0\n            -setsIgnoreFilters 1\n            -containersIgnoreFilters 0\n            -editAttrName 0\n            -showAttrValues 0\n            -highlightSecondary 0\n            -showUVAttrsOnly 0\n            -showTextureNodesOnly 0\n            -attrAlphaOrder \"default\" \n            -animLayerFilterOptions \"allAffecting\" \n            -sortOrder \"none\" \n            -longNames 0\n            -niceNames 1\n            -showNamespace 1\n            -showPinIcons 0\n            -mapMotionTrails 0\n            -ignoreHiddenAttribute 0\n            -ignoreOutlinerColor 0\n            -renderFilterVisible 0\n            -renderFilterIndex 0\n            -selectionOrder \"chronological\" \n            -expandAttribute 0\n            $editorName;\n"
 		+ "\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"Outliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"Outliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 0\n            -showReferenceMembers 0\n            -showAttributes 0\n            -showConnected 0\n            -showAnimCurvesOnly 0\n            -showMuteInfo 0\n            -organizeByLayer 1\n            -organizeByClip 1\n            -showAnimLayerWeight 1\n            -autoExpandLayers 1\n            -autoExpand 0\n            -showDagOnly 1\n            -showAssets 1\n            -showContainedOnly 1\n            -showPublishedAsConnected 0\n            -showParentContainers 0\n            -showContainerContents 1\n            -ignoreDagHierarchy 0\n"
@@ -69738,8 +69802,8 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -controllers 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n"
 		+ "                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -greasePencils 1\n                -shadows 0\n                -captureSequenceNumber -1\n                -width 0\n                -height 0\n                -sceneRenderFilter 0\n                -displayMode \"centerEye\" \n                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n            stereoCameraView -e \n                -pluginObjects \"gpuCacheDisplayFilter\" 1 \n                $editorName; };\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\tif ($useSceneConfig) {\n        string $configName = `getPanel -cwl (localizedPanelLabel(\"Current Layout\"))`;\n        if (\"\" != $configName) {\n\t\t\tpanelConfiguration -edit -label (localizedPanelLabel(\"Current Layout\")) \n"
 		+ "\t\t\t\t-userCreated false\n\t\t\t\t-defaultImage \"\"\n\t\t\t\t-image \"\"\n\t\t\t\t-sc false\n\t\t\t\t-configString \"global string $gMainPane; paneLayout -e -cn \\\"single\\\" -ps 1 100 100 $gMainPane;\"\n\t\t\t\t-removeAllPanels\n\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Persp View\")) \n\t\t\t\t\t\"modelPanel\"\n"
-		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 0\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1314\\n    -height 686\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
-		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 0\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1314\\n    -height 686\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 0\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 965\\n    -height 690\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 0\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 0\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 965\\n    -height 690\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
 		+ "\t\t\t\t$configName;\n\n            setNamedPanelLayout (localizedPanelLabel(\"Current Layout\"));\n        }\n\n        panelHistory -e -clear mainPanelHistory;\n        sceneUIReplacement -clear;\n\t}\n\n\ngrid -spacing 5 -size 12 -divisions 5 -displayAxes yes -displayGridLines yes -displayDivisionLines yes -displayPerspectiveLabels no -displayOrthographicLabels no -displayAxesBold yes -perspectiveLabelPosition axis -orthographicLabelPosition edge;\nviewManip -drawCompass 0 -compassAngle 0 -frontParameters \"\" -homeParameters \"\" -selectionLockParameters \"\";\n}\n");
 	setAttr ".st" 3;
 createNode script -n "sceneConfigurationScriptNode";
@@ -69847,11 +69911,6 @@ createNode shadingEngine -n "pPlane3SG";
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo10";
 	rename -uid "22F1363D-40F9-01E3-00D5-A7BFBAA3B971";
-createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
-	rename -uid "714A400F-45B6-C73A-9487-AD8935220437";
-	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
-	setAttr ".tgi[0].vl" -type "double2" -330.95236780151544 -323.80951094248991 ;
-	setAttr ".tgi[0].vh" -type "double2" 317.85713022663526 338.09522466054096 ;
 createNode reference -n "BG_BeanStalks_ReferenceRN";
 	rename -uid "E71E2740-49DF-8A51-B76F-B5AB76BAAC35";
 	setAttr ".ed" -type "dataReferenceEdits" 
@@ -69870,115 +69929,115 @@ createNode poseInterpolatorManager -n "BG_BeanStalks_Reference1:poseInterpolator
 createNode renderLayerManager -n "BG_BeanStalks_Reference1:renderLayerManager";
 	rename -uid "98D17318-4CA9-A2B8-DD39-D787952F111A";
 createNode renderLayer -n "BG_BeanStalks_Reference1:defaultRenderLayer";
-	rename -uid "10123B3F-4EB4-8421-B0FA-8382BC94461D";
+	rename -uid "C4C9F00C-410B-F63E-D2A5-AEB3E1612232";
 	setAttr ".g" yes;
 createNode reference -n "BG_BeanStalks_Reference1:RL_OC_Whitebox_ModelsRN";
-	rename -uid "B6D5EB37-480E-F782-09B8-4591575DFFB7";
+	rename -uid "0E58EB9B-44D7-36B1-5CB1-28A11C4343B8";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BG_BeanStalks_Reference1:RL_OC_Whitebox_ModelsRN"
 		"RL_OC_Whitebox_ModelsRN" 0;
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode phong -n "BG_BeanStalks_Reference1:Green";
-	rename -uid "9584D5EA-43E4-45B2-7FBC-83B7A8687885";
+	rename -uid "0A6F33A5-49C5-CE19-2B21-3BAC53EC0DB3";
 	setAttr ".c" -type "float3" 0.0087000001 1 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pCylinder1SG";
-	rename -uid "AC3CFAB4-4AA1-4229-B386-5EBE1AEB213D";
+	rename -uid "B07D6A24-46C1-E464-C902-5D801421913B";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo1";
-	rename -uid "26C1E761-4702-62E4-373D-0D9DF652D1BC";
+	rename -uid "20171A4A-42B5-6356-FB95-2382398B94B6";
 createNode phong -n "BG_BeanStalks_Reference1:darkGreen";
-	rename -uid "92470A7D-4EAA-4EAC-1400-ED8E741D3D3E";
+	rename -uid "D6D2A89C-4C44-89F8-4FFA-D8B26F83EF98";
 	setAttr ".c" -type "float3" 0.0163 0.1934 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pCone1SG";
-	rename -uid "98162869-47E5-462B-6E2C-E5A9EE519D1C";
+	rename -uid "2450CFA3-48FB-90E7-6F92-51A6EF0DCEB2";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo2";
-	rename -uid "5A5D6A91-4097-3313-3838-9889B7587AAF";
+	rename -uid "69CBF16A-423A-F2EC-94A4-DE97DC2A8EFD";
 createNode phong -n "BG_BeanStalks_Reference1:Brown";
-	rename -uid "57D6C1A2-43FB-B5EC-08F8-709F1D29B0EB";
+	rename -uid "A8642924-42AB-9118-3798-539707FCB10A";
 	setAttr ".c" -type "float3" 0.2071 0.075199999 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pCylinder2SG";
-	rename -uid "0D50B7B6-4A70-8D22-3DF4-8E8807098666";
+	rename -uid "222D1C48-4817-CB3B-C37A-2DB409D357DC";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo3";
-	rename -uid "D753399B-41D4-35B3-6CA7-3297A127C3C5";
+	rename -uid "4192A472-43D9-BF49-37F1-11BE4BBF308A";
 createNode phong -n "BG_BeanStalks_Reference1:Blue";
-	rename -uid "17189F9B-4980-415E-7332-09ACB0E77B4D";
+	rename -uid "E4B48FF1-4D9E-BFFD-1358-5E920E146A87";
 	setAttr ".c" -type "float3" 0.0020000001 0 1 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pSphere1SG";
-	rename -uid "16445D51-4C49-9FFD-F68C-E9B5FAB2A7E2";
+	rename -uid "5EEB954F-44EE-85A3-C1D3-40BA7C57E305";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo4";
-	rename -uid "4898B988-4227-6BDB-D541-CFB94E6E7798";
+	rename -uid "85BCCE4D-4A5E-FAEA-8D24-A596E42C99D4";
 createNode phong -n "BG_BeanStalks_Reference1:Yellow";
-	rename -uid "85352CEE-4FE7-B8EA-D0AF-49B69244C193";
+	rename -uid "10AFFA89-47CF-6524-0DB4-C488A24AFF14";
 	setAttr ".c" -type "float3" 1 0.9684 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pCube6SG";
-	rename -uid "6ED0C71C-47B7-1CCF-EF21-1EBD3C179BE5";
+	rename -uid "F8727B45-42C0-A231-6C6F-219743AAA87C";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo5";
-	rename -uid "35DEA829-46CF-42E2-4AAE-BEA65F829A4B";
+	rename -uid "B1F9605E-44DD-FA35-FA35-118F6FC04213";
 createNode phong -n "BG_BeanStalks_Reference1:lightBlue";
-	rename -uid "D9AE3ABC-4A4C-B52F-34C7-AF86DA9E8B7C";
+	rename -uid "EC4753D3-4BC2-2988-0584-6398B9FA84B7";
 	setAttr ".c" -type "float3" 0 1 0.8312 ;
 	setAttr ".it" -type "float3" 0.85161293 0.85161293 0.85161293 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pDisc1SG";
-	rename -uid "2C97D971-487E-D52D-388D-BF8E112C8028";
+	rename -uid "4B3A7D7A-4C92-5F49-8C5C-A8B3E360CDD3";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo6";
-	rename -uid "CE7808B6-4812-3441-C0DB-46A2BA70D8BE";
+	rename -uid "E2EB9705-4832-18A8-D2A9-6BB9FF7C0CA2";
 createNode phong -n "BG_BeanStalks_Reference1:pasted__darkGreen";
-	rename -uid "FF2DA86C-49C5-62B2-326E-3991F6E862D1";
+	rename -uid "E3482A5B-402F-FE28-6F2F-6C85A806B011";
 	setAttr ".c" -type "float3" 0.0163 0.1934 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pasted__pCylinder7SG";
-	rename -uid "A070130E-4C45-DF2D-3688-C4BE5050B531";
+	rename -uid "D244B7F1-4E22-35C2-B9F5-939C8A55C066";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo7";
-	rename -uid "8536FE53-4EF7-0DA0-6691-D7959980FDC5";
+	rename -uid "8F829EF5-4CD2-F146-06ED-D6B9150DA85F";
 createNode phong -n "BG_BeanStalks_Reference1:grassGreen";
-	rename -uid "20FE6EB2-4CDD-9768-06E5-0B9768693F7C";
+	rename -uid "E9501992-44CA-183F-BFA5-E0B22FCB7C95";
 	setAttr ".c" -type "float3" 0.030200001 0.1178 0.0231 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pPlane1SG";
-	rename -uid "0CD097A8-4E74-5B04-2506-068F894A8C8A";
+	rename -uid "AD79359A-4188-472B-70CF-47B7AFB9891B";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo8";
-	rename -uid "9AF028E0-4EF5-4AE3-4D41-05B704074407";
+	rename -uid "9C99469E-4F79-DD38-D08E-A1B693548E72";
 createNode phong -n "BG_BeanStalks_Reference1:Gray";
-	rename -uid "000089D6-4439-2DD9-598D-FDACF66B8D1A";
+	rename -uid "D90267A0-4FB2-E4C6-BC8B-DAB3E4B45F26";
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pPlane2SG";
-	rename -uid "360729C3-46B6-F0FF-D7C3-A5BF54191A44";
+	rename -uid "532348DE-4862-66FA-69D7-1484476AF596";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo9";
-	rename -uid "E1E19237-496C-121C-2685-94B3545F38F8";
+	rename -uid "5092CCB8-4ACE-ADBB-2DB4-D2A92C4AE706";
 createNode phong -n "BG_BeanStalks_Reference1:White";
-	rename -uid "09336D24-45A7-8C12-36BA-8395A9B7A572";
+	rename -uid "71ACC45B-45C8-FA94-EE72-2A983FE98BE3";
 	setAttr ".c" -type "float3" 1 1 1 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "BG_BeanStalks_Reference1:pPlane3SG";
-	rename -uid "A26C1A49-4327-BA12-1669-CCA211FDE5F0";
+	rename -uid "AFAA9D43-4A76-1AD3-5AD2-578C8216A404";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "BG_BeanStalks_Reference1:materialInfo10";
-	rename -uid "22F1363D-40F9-01E3-00D5-A7BFBAA3B971";
+	rename -uid "03340B31-456D-8F43-46D8-DDB225958D11";
 createNode nodeGraphEditorInfo -n "BG_BeanStalks_Reference1:hyperShadePrimaryNodeEditorSavedTabsInfo";
 	rename -uid "4845B9F4-49B3-282B-F694-B68C21039710";
 	setAttr ".def" no;
@@ -69995,7 +70054,7 @@ createNode poseInterpolatorManager -n "MovingVine_Reference:poseInterpolatorMana
 createNode renderLayerManager -n "MovingVine_Reference:renderLayerManager";
 	rename -uid "090765FB-4D92-33E3-59EC-C28BE870DF71";
 createNode renderLayer -n "MovingVine_Reference:defaultRenderLayer";
-	rename -uid "10123B3F-4EB4-8421-B0FA-8382BC94461D";
+	rename -uid "8C675470-4EB3-6A8E-E562-8EAB42A8DDEE";
 	setAttr ".g" yes;
 createNode shapeEditorManager -n "MovingVine_Reference:RL_OC_Whitebox_Models:shapeEditorManager";
 	rename -uid "EC2A79F3-44B1-A96C-D799-EE9AED2CE5B2";
@@ -71283,12 +71342,12 @@ createNode reference -n "StillVine_ReferenceRN";
 		"StillVine_ReferenceRN"
 		"StillVine_ReferenceRN" 0
 		"StillVine_ReferenceRN" 38
-		0 "|StillVine_Reference:left" "|Refrences_ReimportLater" "-s -r "
 		0 "|StillVine_Reference:group_Vine" "|Refrences_ReimportLater" "-s -r "
+		0 "|StillVine_Reference:left" "|keep_out_of_the_way" "-s -r "
 		2 "|Refrences_ReimportLater|StillVine_Reference:group_Vine|StillVine_Reference:group_VineControles" 
 		"visibility" " 0"
 		2 "|Refrences_ReimportLater|StillVine_Reference:group_Vine|StillVine_Reference:group_VineControles" 
-		"translate" " -type \"double3\" -36.3586320466039723 -8.21980711774431327 11.66852641468286933"
+		"translate" " -type \"double3\" -1.68954795127910984 -8.21980711774431327 47.50401462246770024"
 		
 		2 "|Refrences_ReimportLater|StillVine_Reference:group_Vine|StillVine_Reference:group_VineControles" 
 		"rotate" " -type \"double3\" 0 -90 0"
@@ -71375,7 +71434,7 @@ createNode reference -n "StillVine_ReferenceRN";
 		"translate" " -type \"double3\" 0.010866790855842395 0.0019683886285902633 0.99854489135950586"
 		
 		2 "|Refrences_ReimportLater|StillVine_Reference:group_Vine|StillVine_Reference:group_VineControles|StillVine_Reference:joint1|StillVine_Reference:joint2|StillVine_Reference:joint3|StillVine_Reference:joint4|StillVine_Reference:joint5|StillVine_Reference:joint6|StillVine_Reference:joint7|StillVine_Reference:joint8|StillVine_Reference:joint9|StillVine_Reference:joint10|StillVine_Reference:joint11|StillVine_Reference:joint12|StillVine_Reference:joint13|StillVine_Reference:joint14|StillVine_Reference:joint15|StillVine_Reference:joint16" 
-		"rotate" " -type \"double3\" -15.24816920505070605 -14.21796794072097647 1.91281432608053059"
+		"rotate" " -type \"double3\" -15.2481692050505977 -14.21796794072099424 1.91281432608058477"
 		
 		2 "|Refrences_ReimportLater|StillVine_Reference:group_Vine|StillVine_Reference:DoNotDeleat" 
 		"translate" " -type \"double3\" 0.051107755862451754 0 -4.9451399506351077";
@@ -71387,12 +71446,12 @@ createNode reference -n "StillVine_ReferenceRN1";
 		"StillVine_ReferenceRN1"
 		"StillVine_ReferenceRN1" 0
 		"StillVine_ReferenceRN1" 29
-		0 "|StillVine_Reference1:left" "|Refrences_ReimportLater" "-s -r "
 		0 "|StillVine_Reference1:group_Vine" "|Refrences_ReimportLater" "-s -r "
+		0 "|StillVine_Reference1:left" "|keep_out_of_the_way" "-s -r "
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles" 
 		"visibility" " 0"
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles" 
-		"translate" " -type \"double3\" -64.02526489134322674 -7.91390754536874574 7.00940699590250738"
+		"translate" " -type \"double3\" -29.3561807960183927 -7.91390754536874574 42.8448952036873365"
 		
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles" 
 		"rotate" " -type \"double3\" 0 -90 0"
@@ -71447,72 +71506,98 @@ createNode reference -n "StillVine_ReferenceRN1";
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles|StillVine_Reference1:joint1|StillVine_Reference1:joint2|StillVine_Reference1:joint3|StillVine_Reference1:joint4|StillVine_Reference1:joint5" 
 		"translate" " -type \"double3\" 0 0 1"
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles|StillVine_Reference1:joint1|StillVine_Reference1:joint2|StillVine_Reference1:joint3|StillVine_Reference1:joint4|StillVine_Reference1:joint5" 
-		"rotate" " -type \"double3\" 6.03680634377591385 14.0068026464564781 0.74226681744882284"
+		"rotate" " -type \"double3\" 6.03680634377568648 14.00680264645660245 0.74226681744880874"
 		
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles|StillVine_Reference1:joint1|StillVine_Reference1:joint2|StillVine_Reference1:joint3|StillVine_Reference1:joint4|StillVine_Reference1:joint5|StillVine_Reference1:joint6|StillVine_Reference1:joint7|StillVine_Reference1:joint8|StillVine_Reference1:joint9|StillVine_Reference1:joint10|StillVine_Reference1:joint11|StillVine_Reference1:joint12|StillVine_Reference1:joint13|StillVine_Reference1:joint14|StillVine_Reference1:joint15|StillVine_Reference1:joint16|StillVine_Reference1:joint17" 
 		"translate" " -type \"double3\" 0 0 1"
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles|StillVine_Reference1:joint1|StillVine_Reference1:joint2|StillVine_Reference1:joint3|StillVine_Reference1:joint4|StillVine_Reference1:joint5|StillVine_Reference1:joint6|StillVine_Reference1:joint7|StillVine_Reference1:joint8|StillVine_Reference1:joint9|StillVine_Reference1:joint10|StillVine_Reference1:joint11|StillVine_Reference1:joint12|StillVine_Reference1:joint13|StillVine_Reference1:joint14|StillVine_Reference1:joint15|StillVine_Reference1:joint16|StillVine_Reference1:joint17" 
-		"rotate" " -type \"double3\" 42.221516588780581 24.10705620917636693 9.42580405806240229"
+		"rotate" " -type \"double3\" 42.22151658878193814 24.10705620917634207 9.42580405806276822"
 		
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles|StillVine_Reference1:joint1|StillVine_Reference1:joint2|StillVine_Reference1:joint3|StillVine_Reference1:joint4|StillVine_Reference1:joint5|StillVine_Reference1:joint6|StillVine_Reference1:joint7|StillVine_Reference1:joint8|StillVine_Reference1:joint9|StillVine_Reference1:joint10|StillVine_Reference1:joint11|StillVine_Reference1:joint12|StillVine_Reference1:joint13|StillVine_Reference1:joint14|StillVine_Reference1:joint15|StillVine_Reference1:joint16|StillVine_Reference1:joint17|StillVine_Reference1:joint18|StillVine_Reference1:joint19|StillVine_Reference1:joint20|StillVine_Reference1:joint21" 
 		"translate" " -type \"double3\" -0.0039965311651964036 0 1.99999600693067525"
 		2 "|Refrences_ReimportLater|StillVine_Reference1:group_Vine|StillVine_Reference1:group_VineControles|StillVine_Reference1:joint1|StillVine_Reference1:joint2|StillVine_Reference1:joint3|StillVine_Reference1:joint4|StillVine_Reference1:joint5|StillVine_Reference1:joint6|StillVine_Reference1:joint7|StillVine_Reference1:joint8|StillVine_Reference1:joint9|StillVine_Reference1:joint10|StillVine_Reference1:joint11|StillVine_Reference1:joint12|StillVine_Reference1:joint13|StillVine_Reference1:joint14|StillVine_Reference1:joint15|StillVine_Reference1:joint16|StillVine_Reference1:joint17|StillVine_Reference1:joint18|StillVine_Reference1:joint19|StillVine_Reference1:joint20|StillVine_Reference1:joint21" 
-		"rotate" " -type \"double3\" -13.94566175068193026 -2.63804647934939185 0.32268643535034897";
+		"rotate" " -type \"double3\" -13.94566175068200309 -2.63804647934955838 0.32268643535039482";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BG_BeanStalks_ReferenceRN1";
 	rename -uid "FDC26A5B-453E-D4C5-336B-A5B4A0B64B83";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BG_BeanStalks_ReferenceRN1"
-		"BG_BeanStalks_ReferenceRN1" 0
-		"BG_BeanStalks_ReferenceRN1" 25
-		0 "|BG_BeanStalks_Reference2:Reffrence_Geos" "|Refrences_ReimportLater" "-s -r "
-		
-		0 "|BG_BeanStalks_Reference2:beanStalk0" "|Refrences_ReimportLater" "-s -r "
-		
-		0 "|BG_BeanStalks_Reference2:beanStalk1" "|Refrences_ReimportLater" "-s -r "
-		
-		0 "|BG_BeanStalks_Reference2:beanStalk2" "|Refrences_ReimportLater" "-s -r "
-		
-		0 "|BG_BeanStalks_Reference2:beanStalk3" "|Refrences_ReimportLater" "-s -r "
-		
-		0 "|BG_BeanStalks_Reference2:beanStalk4" "|Refrences_ReimportLater" "-s -r "
-		
+		"BG_BeanStalks_ReferenceRN1" 2
 		0 "|BG_BeanStalks_Reference2:placeholdderForBeanStalk5" "|Refrences_ReimportLater" 
 		"-s -r "
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCylinder10" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCone18" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCone19" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCone17" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCylinder1" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCylinder14" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pSphere4" 
-		"visibility" " 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:beanStalk1" "visibility" 
-		" 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:beanStalk2" "visibility" 
-		" 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:beanStalk3" "visibility" 
-		" 0"
-		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:beanStalk4" "visibility" 
-		" 0"
 		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:placeholdderForBeanStalk5" 
 		"visibility" " 0"
+		"BG_BeanStalks_ReferenceRN1" 36
+		0 "|BG_BeanStalks_Reference2:Reffrence_Geos" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:beanStalk0" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:beanStalk1" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:beanStalk2" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:beanStalk3" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:beanStalk4" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:BeanStalk5" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:bigStalkPeals" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:StalkLeaf" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:StalkLeaf1" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:StalkLeaf2" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:StalkLeaf3" "|Refrences_ReimportLater|Beanstalks" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:extrudedSurface1" "|Refrences_ReimportLater" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:extrudedSurface2" "|Refrences_ReimportLater" 
+		"-s -r "
+		0 "|BG_BeanStalks_Reference2:extrudedSurface3" "|Refrences_ReimportLater" 
+		"-s -r "
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos" 
+		"visibility" " 1"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCylinder10" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCone18" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCone19" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCone17" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCylinder1" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pCylinder14" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:Reffrence_Geos|BG_BeanStalks_Reference2:pSphere4" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:beanStalk0" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:beanStalk1" 
+		"visibility" " 1"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:beanStalk2" 
+		"visibility" " 1"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:beanStalk3" 
+		"visibility" " 1"
+		2 "|Refrences_ReimportLater|Beanstalks|BG_BeanStalks_Reference2:beanStalk4" 
+		"visibility" " 1"
 		2 "|BG_BeanStalks_Reference2:imagePlane1" "visibility" " 1"
 		2 "|BG_BeanStalks_Reference2:imagePlane1|BG_BeanStalks_Reference2:imagePlaneShape1" 
-		"alphaGain" " 0.4"
-		2 "|BG_BeanStalks_Reference2:imagePlane2" "visibility" " 0"
+		"alphaGain" " 0"
+		2 "|BG_BeanStalks_Reference2:imagePlane2" "visibility" " 1"
 		2 "|BG_BeanStalks_Reference2:imagePlane2|BG_BeanStalks_Reference2:imagePlaneShape2" 
-		"alphaGain" " 1"
-		2 "|BG_BeanStalks_Reference2:imagePlane3" "visibility" " 0"
+		"alphaGain" " 0"
+		2 "|BG_BeanStalks_Reference2:imagePlane3" "visibility" " 1"
 		2 "|BG_BeanStalks_Reference2:imagePlane3|BG_BeanStalks_Reference2:imagePlaneShape3" 
-		"alphaGain" " 1";
+		"alphaGain" " 0"
+		2 "|Refrences_ReimportLater|BG_BeanStalks_Reference2:extrudedSurface3" "visibility" 
+		" 0";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode shapeEditorManager -n "Drum_Reference1:shapeEditorManager";
@@ -71549,27 +71634,27 @@ createNode nodeGraphEditorInfo -n "Drum_Reference1:hyperShadePrimaryNodeEditorSa
 	setAttr ".tgi[0].ni[1].y" 194.28572082519531;
 	setAttr ".tgi[0].ni[1].nvs" 1923;
 createNode shapeEditorManager -n "Drum_Reference:shapeEditorManager";
-	rename -uid "8DA097FD-45EA-03FA-DE88-73B17D0213AC";
+	rename -uid "B3147A92-46F6-AB09-2F14-41855E4C2E12";
 createNode poseInterpolatorManager -n "Drum_Reference:poseInterpolatorManager";
-	rename -uid "D60FD041-4031-3AE4-7F7A-93AFDB284270";
+	rename -uid "880AE6BA-4859-226B-5969-03971BF42AD8";
 createNode renderLayerManager -n "Drum_Reference:renderLayerManager";
-	rename -uid "EEA6E3DF-4216-32A3-1A1B-42B06E18E19B";
+	rename -uid "A0F7C7F1-4A77-229D-C7AF-349CACC4F54D";
 createNode renderLayer -n "Drum_Reference:defaultRenderLayer";
-	rename -uid "F73422EA-4C21-1B95-2D92-088256113F76";
+	rename -uid "A9934F8B-47C9-8DD2-3097-53A0A1436618";
 	setAttr ".g" yes;
 createNode blinn -n "Drum_Reference:drumPlatfrom";
-	rename -uid "D14B9DAB-4A4A-841B-9293-A89A64C3957A";
+	rename -uid "07992A28-4D29-3124-03D9-7DB8B3803FEE";
 	setAttr ".c" -type "float3" 0.43979999 0.2498 0.094800003 ;
 	setAttr ".sro" 0;
 createNode shadingEngine -n "Drum_Reference:blinn1SG";
-	rename -uid "25E19431-410B-AAEA-C26F-81AD5F8B5CCF";
+	rename -uid "A2D3BE66-4A2E-608B-EF94-A5801747DFD4";
 	setAttr ".ihi" 0;
 	setAttr -s 10 ".dsm";
 	setAttr ".ro" yes;
 createNode materialInfo -n "Drum_Reference:materialInfo1";
-	rename -uid "65D84BA5-40E5-AEA0-3A98-ED901B9DA8E2";
+	rename -uid "D5CDCECC-4E1D-C8C1-CA43-CAA7A082E135";
 createNode nodeGraphEditorInfo -n "Drum_Reference:hyperShadePrimaryNodeEditorSavedTabsInfo";
-	rename -uid "ABCA8810-400C-E97B-D5C9-87AF27AA0EF4";
+	rename -uid "273EBBE1-45C8-EC89-8C00-E884A59A10C1";
 	setAttr ".def" no;
 	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
 	setAttr ".tgi[0].vl" -type "double2" -330.95236780151544 -322.61903479931897 ;
@@ -71621,118 +71706,118 @@ createNode poseInterpolatorManager -n "Collections_Reference:poseInterpolatorMan
 createNode renderLayerManager -n "Collections_Reference:renderLayerManager";
 	rename -uid "7F419105-4084-F2A8-6C86-89878087068F";
 createNode renderLayer -n "Collections_Reference:defaultRenderLayer";
-	rename -uid "10123B3F-4EB4-8421-B0FA-8382BC94461D";
+	rename -uid "37F65368-4B07-46C0-41E5-5F950D0097B2";
 	setAttr ".g" yes;
 createNode reference -n "Collections_Reference:RL_OC_Whitebox_ModelsRN";
-	rename -uid "B6D5EB37-480E-F782-09B8-4591575DFFB7";
+	rename -uid "06B23295-413E-8E8B-F534-E2B3975FB4B7";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Collections_Reference:RL_OC_Whitebox_ModelsRN"
 		"RL_OC_Whitebox_ModelsRN" 0;
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode phong -n "Collections_Reference:Green";
-	rename -uid "9584D5EA-43E4-45B2-7FBC-83B7A8687885";
+	rename -uid "8928A4E4-45E7-538E-D791-FD840152EE28";
 	setAttr ".c" -type "float3" 0.0087000001 1 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pCylinder1SG";
-	rename -uid "AC3CFAB4-4AA1-4229-B386-5EBE1AEB213D";
+	rename -uid "F1F59D57-45F2-C7D8-E7CE-64B9B98E8B61";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo1";
-	rename -uid "26C1E761-4702-62E4-373D-0D9DF652D1BC";
+	rename -uid "1CBBF5CA-4007-37B1-DAD3-06B8D42427FE";
 createNode phong -n "Collections_Reference:darkGreen";
-	rename -uid "92470A7D-4EAA-4EAC-1400-ED8E741D3D3E";
+	rename -uid "27CE07D4-4190-B504-4BC7-C4A189904236";
 	setAttr ".c" -type "float3" 0.0163 0.1934 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pCone1SG";
-	rename -uid "98162869-47E5-462B-6E2C-E5A9EE519D1C";
+	rename -uid "ED9B1D1D-4EDD-2244-FC07-FD857A51DF42";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo2";
-	rename -uid "5A5D6A91-4097-3313-3838-9889B7587AAF";
+	rename -uid "9ADFA621-4BDD-D493-1B44-3A846C1FFCF3";
 createNode phong -n "Collections_Reference:Brown";
-	rename -uid "57D6C1A2-43FB-B5EC-08F8-709F1D29B0EB";
+	rename -uid "CCE12139-4CB8-8F94-67B6-5E9F3A65B9CB";
 	setAttr ".c" -type "float3" 0.2071 0.075199999 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pCylinder2SG";
-	rename -uid "0D50B7B6-4A70-8D22-3DF4-8E8807098666";
+	rename -uid "4FA90D93-412D-761B-4AF0-73B414D76DF1";
 	setAttr ".ihi" 0;
 	setAttr -s 3 ".dsm";
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo3";
-	rename -uid "D753399B-41D4-35B3-6CA7-3297A127C3C5";
+	rename -uid "FAC1D9BF-4B08-C332-B20C-9284130581A7";
 createNode phong -n "Collections_Reference:Blue";
-	rename -uid "17189F9B-4980-415E-7332-09ACB0E77B4D";
+	rename -uid "E7419B35-4A36-756E-B621-81A9CB469338";
 	setAttr ".c" -type "float3" 0.0020000001 0 1 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pSphere1SG";
-	rename -uid "16445D51-4C49-9FFD-F68C-E9B5FAB2A7E2";
+	rename -uid "144FD061-4AA8-38EE-346D-5DB8CB4EDD9C";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo4";
-	rename -uid "4898B988-4227-6BDB-D541-CFB94E6E7798";
+	rename -uid "3D50C92B-4782-F9A7-6890-3C9005B3D311";
 createNode phong -n "Collections_Reference:Yellow";
-	rename -uid "85352CEE-4FE7-B8EA-D0AF-49B69244C193";
+	rename -uid "22EBEF8E-4C63-AB75-5702-56BC5D712DC4";
 	setAttr ".c" -type "float3" 1 0.9684 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pCube6SG";
-	rename -uid "6ED0C71C-47B7-1CCF-EF21-1EBD3C179BE5";
+	rename -uid "97B9FE81-4E90-2257-5AD8-799A090762C8";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo5";
-	rename -uid "35DEA829-46CF-42E2-4AAE-BEA65F829A4B";
+	rename -uid "99F5247A-4D8F-0162-CFBC-BCB0FEEC8F19";
 createNode phong -n "Collections_Reference:lightBlue";
-	rename -uid "D9AE3ABC-4A4C-B52F-34C7-AF86DA9E8B7C";
+	rename -uid "59874D46-46C3-0D37-295E-D88E32914ECB";
 	setAttr ".c" -type "float3" 0 1 0.8312 ;
 	setAttr ".it" -type "float3" 0.85161293 0.85161293 0.85161293 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pDisc1SG";
-	rename -uid "2C97D971-487E-D52D-388D-BF8E112C8028";
+	rename -uid "CB3C2E30-4B2D-CE43-46F0-A99A1FDFBFEB";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo6";
-	rename -uid "CE7808B6-4812-3441-C0DB-46A2BA70D8BE";
+	rename -uid "AE6D3249-4E5F-B71E-E3A4-56A040A666F6";
 createNode phong -n "Collections_Reference:pasted__darkGreen";
-	rename -uid "FF2DA86C-49C5-62B2-326E-3991F6E862D1";
+	rename -uid "D5F43474-4F86-C582-2951-C0B2BA4A9BE2";
 	setAttr ".c" -type "float3" 0.0163 0.1934 0 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pasted__pCylinder7SG";
-	rename -uid "A070130E-4C45-DF2D-3688-C4BE5050B531";
+	rename -uid "4C257C2C-4ECA-9E8A-5D09-EAA0208EDA29";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo7";
-	rename -uid "8536FE53-4EF7-0DA0-6691-D7959980FDC5";
+	rename -uid "FC57198F-4414-8294-E134-5DA3229323F1";
 createNode phong -n "Collections_Reference:grassGreen";
-	rename -uid "20FE6EB2-4CDD-9768-06E5-0B9768693F7C";
+	rename -uid "135CC921-4461-0854-DFAA-EBBA863D560F";
 	setAttr ".c" -type "float3" 0.030200001 0.1178 0.0231 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pPlane1SG";
-	rename -uid "0CD097A8-4E74-5B04-2506-068F894A8C8A";
+	rename -uid "B0345807-494A-7E7B-E114-61B0610A2EFF";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo8";
-	rename -uid "9AF028E0-4EF5-4AE3-4D41-05B704074407";
+	rename -uid "456EF5C3-4959-C5AB-C44D-03896394FFEC";
 createNode phong -n "Collections_Reference:Gray";
-	rename -uid "000089D6-4439-2DD9-598D-FDACF66B8D1A";
+	rename -uid "98C299D0-40BB-66F7-BEAB-15AD6F979A9E";
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pPlane2SG";
-	rename -uid "360729C3-46B6-F0FF-D7C3-A5BF54191A44";
+	rename -uid "B7FBA2ED-43E7-3E72-7B54-E5903ADAE029";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo9";
-	rename -uid "E1E19237-496C-121C-2685-94B3545F38F8";
+	rename -uid "C3C107AD-4618-ACC3-FB2C-42B118FBE35C";
 createNode phong -n "Collections_Reference:White";
-	rename -uid "09336D24-45A7-8C12-36BA-8395A9B7A572";
+	rename -uid "2636B3B3-41E7-E4AC-1E20-B1A39FEC7918";
 	setAttr ".c" -type "float3" 1 1 1 ;
 	setAttr ".cp" 6.311790943145752;
 createNode shadingEngine -n "Collections_Reference:pPlane3SG";
-	rename -uid "A26C1A49-4327-BA12-1669-CCA211FDE5F0";
+	rename -uid "5F1FDCB5-40A2-EF4F-6929-D8ADC30F8C20";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "Collections_Reference:materialInfo10";
-	rename -uid "22F1363D-40F9-01E3-00D5-A7BFBAA3B971";
+	rename -uid "6612A962-4EBE-AC34-8B75-2C8210CFF352";
 createNode nodeGraphEditorInfo -n "Collections_Reference:hyperShadePrimaryNodeEditorSavedTabsInfo";
-	rename -uid "714A400F-45B6-C73A-9487-AD8935220437";
+	rename -uid "17B096C8-4207-2B03-1269-D2A5EABA7F04";
 	setAttr ".def" no;
 	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
 	setAttr ".tgi[0].vl" -type "double2" -330.95236780151544 -323.80951094248991 ;
@@ -73168,6 +73253,787 @@ createNode nodeGraphEditorInfo -n "TStand_Reference:hyperShadePrimaryNodeEditorS
 	setAttr ".tgi[0].ni[1].x" -252.85714721679688;
 	setAttr ".tgi[0].ni[1].y" 194.28572082519531;
 	setAttr ".tgi[0].ni[1].nvs" 1923;
+createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
+	rename -uid "F9D7E3CE-4130-493A-3247-EA8FCAEEE7F8";
+	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
+	setAttr ".tgi[0].vl" -type "double2" -330.95236780151544 -322.61903479931897 ;
+	setAttr ".tgi[0].vh" -type "double2" 317.85713022663526 336.90474851737002 ;
+createNode reference -n "StillVine_ReferenceRN2";
+	rename -uid "DFD2E680-4F23-5171-5053-F9AD9248CAD9";
+	setAttr -s 10 ".phl";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_ReferenceRN2"
+		"StillVine_ReferenceRN2" 31
+		2 "|StillVine_Reference2:group_Vine" "translate" " -type \"double3\" 0 0 0"
+		
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"visibility" " -av 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"translate" " -type \"double3\" -37.03789840573067949 -7.3088140626920719 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"translateX" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"translateY" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"rotate" " -type \"double3\" 7.94569787428414998 -90.71932922034753233 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"rotateX" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"rotateZ" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"scale" " -type \"double3\" 1 1 1"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"scaleZ" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"scaleX" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles" 
+		"scaleY" " -av"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint1" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint2" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint3" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint4" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint5" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint6" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles|StillVine_Reference2:ctrl_VineJoint7" 
+		"rotate" " -type \"double3\" 0 0 0"
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.rotateY" 
+		"StillVine_ReferenceRN2.placeHolderList[1]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.rotateX" 
+		"StillVine_ReferenceRN2.placeHolderList[2]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.rotateZ" 
+		"StillVine_ReferenceRN2.placeHolderList[3]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.translateX" 
+		"StillVine_ReferenceRN2.placeHolderList[4]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.translateY" 
+		"StillVine_ReferenceRN2.placeHolderList[5]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.translateZ" 
+		"StillVine_ReferenceRN2.placeHolderList[6]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.scaleZ" 
+		"StillVine_ReferenceRN2.placeHolderList[7]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.scaleX" 
+		"StillVine_ReferenceRN2.placeHolderList[8]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.scaleY" 
+		"StillVine_ReferenceRN2.placeHolderList[9]" ""
+		5 4 "StillVine_ReferenceRN2" "|StillVine_Reference2:group_Vine|StillVine_Reference2:group_VineControles.visibility" 
+		"StillVine_ReferenceRN2.placeHolderList[10]" "";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference2RN";
+	rename -uid "F098066B-4C89-1073-A06B-A7A7524E52F7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference2RN"
+		"StillVine_Reference2RN" 0
+		"StillVine_Reference2RN" 6
+		0 "|StillVine_Reference3:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference3:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference3:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference3:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference3:group_Vine|StillVine_Reference3:group_VineControles" 
+		"translate" " -type \"double3\" -2.20401743916501669 -0.68964381096448957 31.10503339727006988"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference3:group_Vine|StillVine_Reference3:group_VineControles" 
+		"rotate" " -type \"double3\" 0 -131.66910574621886099 56.36604472764368268";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference2RN1";
+	rename -uid "776FEE70-49E3-8508-918A-09850966A8D6";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference2RN1"
+		"StillVine_Reference2RN1" 0
+		"StillVine_Reference2RN1" 11
+		0 "|StillVine_Reference4:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference4:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles" 
+		"translate" " -type \"double3\" -7.8093602862807856 2.00481518607494325 33.19227954686049031"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles" 
+		"rotate" " -type \"double3\" 197.31590164793536246 -87.36570704627817463 -93.44774590980546236"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles|StillVine_Reference4:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0.48045468943062031 -2.31926349319638225 1.54222848670235613"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles|StillVine_Reference4:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0.32832195374698792 -1.53685871814560082 1.24499337299922175"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles|StillVine_Reference4:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0.18783114900870651 -0.78336027405258113 1.0937266336543463"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference4:group_Vine|StillVine_Reference4:group_VineControles|StillVine_Reference4:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0.079737838404070296 -0.31681894152383921 0.52690801101120843";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference3RN";
+	rename -uid "CE64D0C1-4D15-FDAD-6445-2C91FB0583E9";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference3RN"
+		"StillVine_Reference3RN" 0
+		"StillVine_Reference3RN" 14
+		0 "|StillVine_Reference5:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference5:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles" 
+		"translate" " -type \"double3\" -0.59906057776791899 -2.35048400668211377 36.53711685659605735"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles" 
+		"rotate" " -type \"double3\" 0 -42.88457713559277096 7.90340932502195503"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 0.66365496069917163 0.51815675510488324"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 0.28639908409021836 0.36098129330595091"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 -0.11241419534331745 0.43460008593636779"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 -0.17293630865094992 0.060371865540777642"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 0.045198885372332839 -0.19609339609865689"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" 0 0.27173260986294112 -0.18997349892054527"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference5:group_Vine|StillVine_Reference5:group_VineControles|StillVine_Reference5:ctrl_VineJoint7" 
+		"translate" " -type \"double3\" 0 -0.19942844587919545 -0.33199736107479111";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference2RN2";
+	rename -uid "70A9E56A-46D0-49EB-B4B1-64977C75DC86";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference2RN2"
+		"StillVine_Reference2RN2" 0
+		"StillVine_Reference2RN2" 7
+		0 "|StillVine_Reference6:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference6:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference6:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference6:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference6:group_Vine|StillVine_Reference6:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference6:group_Vine|StillVine_Reference6:group_VineControles" 
+		"translate" " -type \"double3\" -3.50633670026685218 0.69798732501393035 36.60865179308913753"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference6:group_Vine|StillVine_Reference6:group_VineControles" 
+		"rotate" " -type \"double3\" -10.91328813891831118 -77.60595883784360183 17.34799186157345829";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference3RN1";
+	rename -uid "4444C720-4D14-1926-5FEA-70BCE10E7389";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference3RN1"
+		"StillVine_Reference3RN1" 0
+		"StillVine_Reference3RN1" 13
+		0 "|StillVine_Reference7:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference7:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles" 
+		"translate" " -type \"double3\" -3.42516740541330122 1.80564305010690473 36.24933718243261183"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles" 
+		"rotate" " -type \"double3\" -116.86919067757730772 -83.8743772919366819 103.85843804736087748"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles|StillVine_Reference7:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0.01072321471610361 0.1240976498321274 0.014742719428795582"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles|StillVine_Reference7:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0.00038716246265274319 0.087541845538022342 0.099966987449432221"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles|StillVine_Reference7:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0.008834565565378873 0.17929316538730056 0.10438753258934114"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles|StillVine_Reference7:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" -0.01937088515692548 -0.17690953447179636 0.029951269614117072"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles|StillVine_Reference7:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" -0.019551718692249236 -0.16311829871566638 0.048717760639393266"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference7:group_Vine|StillVine_Reference7:group_VineControles|StillVine_Reference7:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" -0.019541762766539485 -0.14255663298856364 0.073208390630242204";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference4RN";
+	rename -uid "317F74C1-4A7D-D33F-586D-B580C9460E43";
+	setAttr -s 10 ".phl";
+	setAttr ".phl[1]" 0;
+	setAttr ".phl[2]" 0;
+	setAttr ".phl[3]" 0;
+	setAttr ".phl[4]" 0;
+	setAttr ".phl[5]" 0;
+	setAttr ".phl[6]" 0;
+	setAttr ".phl[7]" 0;
+	setAttr ".phl[8]" 0;
+	setAttr ".phl[9]" 0;
+	setAttr ".phl[10]" 0;
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference4RN"
+		"StillVine_Reference4RN" 0
+		"StillVine_Reference4RN" 29
+		0 "|StillVine_Reference8:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference8:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"visibility" " -av 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"translate" " -type \"double3\" -2.36254818659798493 2.71750631185895575 35.83538251712886336"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"translateX" " -av"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"translateY" " -av"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"translateZ" " -av"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"rotate" " -type \"double3\" -32.35934128295360068 -90 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"rotateX" " -av"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"rotateY" " -av"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles" 
+		"rotateZ" " -av"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles|StillVine_Reference8:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 -0.13575786338627457 0.065020335050258185"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles|StillVine_Reference8:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 0.078857653842722697 0.018519334785935294"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles|StillVine_Reference8:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 0.21392734539343256 0.015516620933323528"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles|StillVine_Reference8:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 0.31541882714096048 0.036999452852462221"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles|StillVine_Reference8:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 0.37808169900783473 0.00087508506487352609"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles|StillVine_Reference8:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" 0 0.32169852900737295 -0.0059801054726349966"
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.visibility" 
+		"StillVine_Reference4RN.placeHolderList[1]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.translateX" 
+		"StillVine_Reference4RN.placeHolderList[2]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.translateY" 
+		"StillVine_Reference4RN.placeHolderList[3]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.translateZ" 
+		"StillVine_Reference4RN.placeHolderList[4]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.rotateX" 
+		"StillVine_Reference4RN.placeHolderList[5]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.rotateY" 
+		"StillVine_Reference4RN.placeHolderList[6]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.rotateZ" 
+		"StillVine_Reference4RN.placeHolderList[7]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.scaleX" 
+		"StillVine_Reference4RN.placeHolderList[8]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.scaleY" 
+		"StillVine_Reference4RN.placeHolderList[9]" ""
+		5 4 "StillVine_Reference4RN" "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference8:group_Vine|StillVine_Reference8:group_VineControles.scaleZ" 
+		"StillVine_Reference4RN.placeHolderList[10]" "";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference5RN";
+	rename -uid "7B7A37A6-4EB3-43F8-B44F-F5B9A1BAC3BB";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference5RN"
+		"StillVine_Reference5RN" 0
+		"StillVine_Reference5RN" 14
+		0 "|StillVine_Reference9:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference9:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles" 
+		"translate" " -type \"double3\" -3.67802312121592578 2.29937107542094132 33.78926307625035719"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles" 
+		"rotate" " -type \"double3\" 0 -114.87976121828454268 -49.10259918750954711"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 0.30054141893578101 0.13568584435421868"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 0.07330184701127096 0.11871138857065437"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 0.020831546120417439 0.012207692498759831"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 -0.31882854765687219 -0.056403246540636824"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 -0.46621483985824635 0.065285605266015803"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" 0 -0.50746908611749908 0.11874787113288492"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference9:group_Vine|StillVine_Reference9:group_VineControles|StillVine_Reference9:ctrl_VineJoint7" 
+		"translate" " -type \"double3\" 0 -0.46261914833399498 0.027070602304865739";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference6RN";
+	rename -uid "E180B4AB-4EEB-44F8-978B-99817799A8E7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference6RN"
+		"StillVine_Reference6RN" 0
+		"StillVine_Reference6RN" 11
+		0 "|StillVine_Reference10:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference10:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles" 
+		"translate" " -type \"double3\" -2.67619729998999833 3.30267291857686063 34.96287541941691757"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles" 
+		"rotate" " -type \"double3\" 23.60049155336785631 -107.96937704443250539 -95.4345065322070667"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles|StillVine_Reference10:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 0.34340896409911592 0.21750423505656449"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles|StillVine_Reference10:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 -0.2587203066188159 0.031136135996837011"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles|StillVine_Reference10:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 -0.088632810264109366 -0.029561366448006596"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference10:group_Vine|StillVine_Reference10:group_VineControles|StillVine_Reference10:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 -0.16104336049523665 -0.013154466609340304";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference7RN";
+	rename -uid "13816E62-4BFC-A772-A6F9-ED92E589B233";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference7RN"
+		"StillVine_Reference7RN" 0
+		"StillVine_Reference7RN" 12
+		0 "|StillVine_Reference11:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference11:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles" 
+		"translate" " -type \"double3\" 5.19384224047926235 4.51188995377672608 38.99264653033132078"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles" 
+		"rotate" " -type \"double3\" 90.00000000000054001 61.44294353904020767 44.0151024682400589"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles|StillVine_Reference11:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 -2.0530015542320621 0.41702778943943225"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles|StillVine_Reference11:ctrl_VineJoint2" 
+		"visibility" " 1"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles|StillVine_Reference11:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 -0.85470726114628659 0.44210429175748295"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles|StillVine_Reference11:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 -0.71453723111883227 0.38349364221172377"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference11:group_Vine|StillVine_Reference11:group_VineControles|StillVine_Reference11:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 -0.26516435439607228 0.11742918522826351";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference8RN";
+	rename -uid "9D928456-4CB6-0F24-CB03-908EE06A06DB";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference8RN"
+		"StillVine_Reference8RN" 0
+		"StillVine_Reference8RN" 35
+		0 "|StillVine_Reference12:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference12:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles" 
+		"translate" " -type \"double3\" 1.67990010650541999 -1.10616141624867192 36.75954002164444034"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles" 
+		"rotate" " -type \"double3\" 0 67.02939709426773618 -37.38745363893433193"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 0.16083772281828188 0.074362370535819636"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 0.13392866983498641 0.17652533843177562"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 0.24789749231034824 0.24572749547788891"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 -0.12558228319589443 0.061714246568145323"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 -0.14702136704288588 0.22474787762206028"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" 0 -0.48699967960054352 -0.018282414821941331"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint7" 
+		"translate" " -type \"double3\" 0 -0.52513730021193505 -0.060610033178826288"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint8" 
+		"translate" " -type \"double3\" 0 -0.88409248245358485 -0.42508450756280941"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint9" 
+		"translate" " -type \"double3\" 0 -0.88409248245358485 -0.42508450756280941"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint10" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint11" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint12" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint13" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint14" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint15" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint16" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint17" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint18" 
+		"translate" " -type \"double3\" 0 -1.00745391195835876 -0.34262971310407125"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint19" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint20" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint21" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint22" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint23" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint24" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint25" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint26" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint27" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference12:group_Vine|StillVine_Reference12:group_VineControles|StillVine_Reference12:ctrl_VineJoint28" 
+		"translate" " -type \"double3\" 0 -1.30197210040005196 -0.064471911068241725";
+lockNode -l 1 ;
+createNode reference -n "StillVine_Reference9RN";
+	rename -uid "5FE435E6-4B6C-AA3D-67FC-DE9429BB8E38";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_Reference9RN"
+		"StillVine_Reference9RN" 0
+		"StillVine_Reference9RN" 33
+		0 "|StillVine_Reference13:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference13:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine" 
+		"translate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles" 
+		"translate" " -type \"double3\" 7.50563669842861181 8.59641239021183701 30.75216924817578601"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles" 
+		"rotate" " -type \"double3\" 89.99999999999977263 127.69776629565878068 1.01117609312412915"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 -2.77448618251891199 2.85743118488142134"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 -0.89177033554808904 1.2843634688299459"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 -1.68377124402323242 1.13437299856441176"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 0.24920732324419068 0.11471720852868313"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint7" 
+		"translate" " -type \"double3\" 0 -0.023738706824782296 -0.00041899255876296892"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint8" 
+		"translate" " -type \"double3\" 0 0.0078807893065698381 0.00013909738643616966"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint9" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint10" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint11" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint12" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint13" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint14" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint15" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint16" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint17" 
+		"translate" " -type \"double3\" 0 -0.4137778260936989 -0.0073032550338763373"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint18" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint19" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint20" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint21" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint22" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint23" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint24" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint25" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint26" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint27" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference13:group_Vine|StillVine_Reference13:group_VineControles|StillVine_Reference13:ctrl_VineJoint28" 
+		"translate" " -type \"double3\" 0 -0.59471489102825803 -0.010496827639670053";
+lockNode -l 1 ;
+createNode animCurveTL -n "group_VineControles_translateX";
+	rename -uid "0906634E-4DA4-B356-F888-948015822B9A";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -25.21411718361616;
+createNode animCurveTL -n "group_VineControles_translateY";
+	rename -uid "7442121A-4DE4-047D-3442-AD92436D7B03";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -28.197275731538461;
+createNode animCurveTL -n "group_VineControles_translateZ";
+	rename -uid "6B3D6F7F-4C7B-9084-6822-B29955AFD12B";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -7.1054273576010019e-15;
+createNode animCurveTU -n "group_VineControles_visibility";
+	rename -uid "365B6859-4BEE-E626-8E02-C0977348A262";
+	setAttr ".tan" 9;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 1;
+	setAttr ".kot[0]"  5;
+createNode animCurveTA -n "group_VineControles_rotateX";
+	rename -uid "ED1ED9EA-4C2D-89C3-E0BC-91B3E5B0CF22";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 50.123507014520008;
+createNode animCurveTA -n "group_VineControles_rotateY";
+	rename -uid "2EB5BAC2-4548-BA2A-CA73-97AEEB7857BE";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -90.719329220347532;
+createNode animCurveTA -n "group_VineControles_rotateZ";
+	rename -uid "5F6FE206-44F9-CDF9-8F73-DA8DF2C567A2";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -5.0888874903416268e-13;
+createNode animCurveTU -n "group_VineControles_scaleX";
+	rename -uid "857236CD-4E74-0CA5-02F0-27B46272EC58";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2;
+createNode animCurveTU -n "group_VineControles_scaleY";
+	rename -uid "72845B5B-4591-4DED-5A89-F49541A2A68E";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2;
+createNode animCurveTU -n "group_VineControles_scaleZ";
+	rename -uid "BA08E167-46A4-1CA5-172D-7790F51AF32F";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2;
+createNode reference -n "StillVine_ReferenceRN3";
+	rename -uid "F0404CA5-4705-3063-8EB1-00B9403AB32C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_ReferenceRN3"
+		"StillVine_ReferenceRN3" 0
+		"StillVine_ReferenceRN3" 38
+		0 "|StillVine_Reference14:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference14:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine" 
+		"translate" " -type \"double3\" 0 0 -0.063622828691922262"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine" 
+		"rotate" " -type \"double3\" 0 -12.92877225320128431 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles" 
+		"translate" " -type \"double3\" 0 7.38000264916752968 36.11878205423361976"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles" 
+		"rotate" " -type \"double3\" 13.15998041419110542 90 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 -1.91859311446162484 1.30137077868357443"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 -0.55804320121646755 1.19300106324042043"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 -0.3745314350965851 1.36217918262383741"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 0.25527228291591791 0.89240045483366892"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 -0.039258130975116615 0.44290150801021783"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" 0 0.21779626737650742 -0.0038214212021781191"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint7" 
+		"translate" " -type \"double3\" 0 -0.28774916366437825 -0.012082952311943045"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint8" 
+		"translate" " -type \"double3\" 0 -1.10042160103896403 0.22350363525400321"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint9" 
+		"translate" " -type \"double3\" 0 -1.69386149002307818 0.093424529007628418"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint10" 
+		"translate" " -type \"double3\" 0 -2.12787972261922098 0.17490023330061452"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint11" 
+		"translate" " -type \"double3\" 0 -2.92589718684534539 -0.060108504483294654"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint12" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint13" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint14" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint15" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint16" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint17" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint18" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint19" 
+		"translate" " -type \"double3\" 0 -3.22683728318945739 -0.20103420231830149"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint20" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint21" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint22" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint23" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint24" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint25" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint26" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint27" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:ctrl_VineJoint28" 
+		"translate" " -type \"double3\" 0 -3.40168632131337878 -0.89345934966326745"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:joint1" 
+		"translate" " -type \"double3\" -0.13303956421653904 -1.92997773530575567 -16.74732075315188951"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineControles|StillVine_Reference14:joint1" 
+		"rotate" " -type \"double3\" -72.90847548329900008 -6.59701389799033056 4.8758306537188334"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference14:group_Vine|StillVine_Reference14:group_VineParts" 
+		"translate" " -type \"double3\" 0 0 0";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
+createNode reference -n "StillVine_ReferenceRN4";
+	rename -uid "858A6CD5-40D8-6757-A629-E295BE47B8C4";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_ReferenceRN4"
+		"StillVine_ReferenceRN4" 0
+		"StillVine_ReferenceRN4" 12
+		0 "|StillVine_Reference15:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference15:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine" 
+		"rotate" " -type \"double3\" 0 0 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles" 
+		"visibility" " 0"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles" 
+		"translate" " -type \"double3\" 5.68644956872698515 2.52002951664429764 31.63193807858939621"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles" 
+		"rotate" " -type \"double3\" 89.99999999999981526 123.84529679960316173 -8.20842089579046252"
+		
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles|StillVine_Reference15:ctrl_VineJoint1" 
+		"translate" " -type \"double3\" 0 -1.06303978620997941 1.26728036506374719"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles|StillVine_Reference15:ctrl_VineJoint2" 
+		"translate" " -type \"double3\" 0 -0.44516003005592059 0.7750814261100667"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles|StillVine_Reference15:ctrl_VineJoint3" 
+		"translate" " -type \"double3\" 0 0.10949372071419088 0.55582957301577374"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles|StillVine_Reference15:ctrl_VineJoint4" 
+		"translate" " -type \"double3\" 0 0.22904703737907356 0.21612901503549753"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles|StillVine_Reference15:ctrl_VineJoint5" 
+		"translate" " -type \"double3\" 0 0.10161350752530343 0.043970156986442459"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference15:group_Vine|StillVine_Reference15:group_VineControles|StillVine_Reference15:ctrl_VineJoint6" 
+		"translate" " -type \"double3\" 0 -0.36938256721773777 -0.071300521732605315";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
+createNode animCurveTL -n "group_VineControles_translateX1";
+	rename -uid "EAFF6EF4-4068-469F-724D-539959AC024F";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -2.3625481865979849;
+createNode animCurveTL -n "group_VineControles_translateY1";
+	rename -uid "9A4C8109-48EC-0544-F834-AFAFD8187420";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2.7175063118589557;
+createNode animCurveTL -n "group_VineControles_translateZ1";
+	rename -uid "79334A47-40DF-51BF-E25C-51B784564C6F";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 35.835382517128863;
+createNode animCurveTU -n "group_VineControles_visibility1";
+	rename -uid "933D303C-4C7B-A943-35EF-B6B84EE7AB30";
+	setAttr ".tan" 9;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 0;
+	setAttr ".kot[0]"  5;
+createNode animCurveTA -n "group_VineControles_rotateX1";
+	rename -uid "7A5DA173-4D9D-66F9-53B9-748E7C3D4242";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -32.359341282953601;
+createNode animCurveTA -n "group_VineControles_rotateY1";
+	rename -uid "FC1999F5-47A5-FC4A-DB3D-DD9147C89225";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 -90;
+createNode animCurveTA -n "group_VineControles_rotateZ1";
+	rename -uid "574FCAA3-42B5-9CF4-3AD0-68B82E8857B2";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 0;
+createNode animCurveTU -n "group_VineControles_scaleX1";
+	rename -uid "E9D37C66-44AF-5FE1-F1FF-3682F715A18B";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2;
+createNode animCurveTU -n "group_VineControles_scaleY1";
+	rename -uid "EBA2B048-4262-EFC7-5718-A4850B6DD6D5";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2;
+createNode animCurveTU -n "group_VineControles_scaleZ1";
+	rename -uid "DE94833F-421D-2C37-760D-798545F142FB";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  81 2;
+createNode reference -n "StillVine_ReferenceRN5";
+	rename -uid "99E264CE-4814-242F-2699-93914B5A72A4";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"StillVine_ReferenceRN5"
+		"StillVine_ReferenceRN5" 0
+		"StillVine_ReferenceRN5" 4
+		0 "|StillVine_Reference16:group_Vine" "|Refrences_ReimportLater|Pointing_Vines" 
+		"-s -r "
+		0 "|StillVine_Reference16:left" "|keep_out_of_the_way" "-s -r "
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference16:group_Vine|StillVine_Reference16:group_VineControles" 
+		"translate" " -type \"double3\" 0 -1.14382240067444263 37.97200636204370028"
+		2 "|Refrences_ReimportLater|Pointing_Vines|StillVine_Reference16:group_Vine|StillVine_Reference16:group_VineControles" 
+		"rotate" " -type \"double3\" 61.75275539540264447 0 0";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
 select -ne :time1;
 	setAttr ".o" 81;
 	setAttr ".unw" 81;
@@ -73178,15 +74044,16 @@ select -ne :hardwareRenderingGlobals;
 		 0 0 0 0 ;
 	setAttr ".fprt" yes;
 select -ne :renderPartition;
-	setAttr -s 83 ".st";
+	setAttr -s 238 ".st";
 select -ne :renderGlobalsList1;
 select -ne :defaultShaderList1;
-	setAttr -s 58 ".s";
+	setAttr -s 77 ".s";
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderingList1;
-	setAttr -s 16 ".r";
+	setAttr -s 45 ".r";
 select -ne :initialShadingGroup;
+	setAttr -s 4 ".dsm";
 	setAttr ".ro" yes;
 select -ne :initialParticleSE;
 	setAttr ".ro" yes;
@@ -73198,7 +74065,17 @@ select -ne :hardwareRenderGlobals;
 	setAttr ".ctrs" 256;
 	setAttr ".btrs" 512;
 select -ne :ikSystem;
-	setAttr -s 6 ".sol";
+	setAttr -s 16 ".sol";
+connectAttr "group_VineControles_visibility1.o" "StillVine_Reference4RN.phl[1]";
+connectAttr "group_VineControles_translateX1.o" "StillVine_Reference4RN.phl[2]";
+connectAttr "group_VineControles_translateY1.o" "StillVine_Reference4RN.phl[3]";
+connectAttr "group_VineControles_translateZ1.o" "StillVine_Reference4RN.phl[4]";
+connectAttr "group_VineControles_rotateX1.o" "StillVine_Reference4RN.phl[5]";
+connectAttr "group_VineControles_rotateY1.o" "StillVine_Reference4RN.phl[6]";
+connectAttr "group_VineControles_rotateZ1.o" "StillVine_Reference4RN.phl[7]";
+connectAttr "group_VineControles_scaleX1.o" "StillVine_Reference4RN.phl[8]";
+connectAttr "group_VineControles_scaleY1.o" "StillVine_Reference4RN.phl[9]";
+connectAttr "group_VineControles_scaleZ1.o" "StillVine_Reference4RN.phl[10]";
 connectAttr ":defaultColorMgtGlobals.cme" "imagePlaneShape1.cme";
 connectAttr ":defaultColorMgtGlobals.cfe" "imagePlaneShape1.cmcf";
 connectAttr ":defaultColorMgtGlobals.cfp" "imagePlaneShape1.cmcp";
@@ -73286,6 +74163,45 @@ relationship "link" ":lightLinker1" "pasted__pCylinder7SG.message" ":defaultLigh
 relationship "link" ":lightLinker1" "pPlane1SG.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" "pPlane2SG.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" "pPlane3SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pCylinder1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pCone1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pCylinder2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pSphere1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pCube6SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pDisc1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pasted__pCylinder7SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pPlane1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pPlane2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BG_BeanStalks_Reference1:pPlane3SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn3SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn4SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn5SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn6SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn7SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:pasted__blinn7SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn8SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn9SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models1:blinn7SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Drum_Reference1:blinn1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Drum_Reference:blinn1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "BouncePadd_Reference:blinn1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pCylinder1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pCone1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pCylinder2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pSphere1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pCube6SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pDisc1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pasted__pCylinder7SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pPlane1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pPlane2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Collections_Reference:pPlane3SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Teensies_Reffrences:blinn1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "Teensies_Reffrences:blinn2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "RaymanCharacter_Reference:lambert2SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "RaymanCharacter_Reference:lambert3SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "TStand_Reference:blinn1SG.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" "pCylinder1SG.message" ":defaultLightSet.message";
@@ -73298,6 +74214,45 @@ relationship "shadowLink" ":lightLinker1" "pasted__pCylinder7SG.message" ":defau
 relationship "shadowLink" ":lightLinker1" "pPlane1SG.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" "pPlane2SG.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" "pPlane3SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pCylinder1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pCone1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pCylinder2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pSphere1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pCube6SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pDisc1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pasted__pCylinder7SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pPlane1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pPlane2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BG_BeanStalks_Reference1:pPlane3SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn3SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn4SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn5SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn6SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn7SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:pasted__blinn7SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn8SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models:blinn9SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "MovingVine_Reference:RL_OC_Whitebox_Models1:blinn7SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Drum_Reference1:blinn1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Drum_Reference:blinn1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "BouncePadd_Reference:blinn1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pCylinder1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pCone1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pCylinder2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pSphere1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pCube6SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pDisc1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pasted__pCylinder7SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pPlane1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pPlane2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Collections_Reference:pPlane3SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Teensies_Reffrences:blinn1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "Teensies_Reffrences:blinn2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "RaymanCharacter_Reference:lambert2SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "RaymanCharacter_Reference:lambert3SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "TStand_Reference:blinn1SG.message" ":defaultLightSet.message";
 connectAttr "layerManager.dli[0]" "defaultLayer.id";
 connectAttr "renderLayerManager.rlmi[0]" "defaultRenderLayer.rlid";
 connectAttr "Green.oc" "pCylinder1SG.ss";
@@ -73503,6 +74458,7 @@ connectAttr "MovingVine_Reference:RL_OC_Vine.msg" "MovingVine_Reference:hyperSha
 		;
 connectAttr ":timeEditor.cmp[0]" "MovingVine_Reference:Composition1.cmp";
 connectAttr "sharedReferenceNode.sr" "MovingVine_ReferenceRN.sr";
+connectAttr "sharedReferenceNode.sr" "BG_BeanStalks_ReferenceRN1.sr";
 connectAttr "Drum_Reference1:renderLayerManager.rlmi[0]" "Drum_Reference1:defaultRenderLayer.rlid"
 		;
 connectAttr "Drum_Reference1:drumPlatfrom.oc" "Drum_Reference1:blinn1SG.ss";
@@ -73956,6 +74912,17 @@ connectAttr "TStand_Reference:blinn1SG.msg" "TStand_Reference:hyperShadePrimaryN
 		;
 connectAttr "TStand_Reference:tStalkStand.msg" "TStand_Reference:hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[1].dn"
 		;
+connectAttr "sharedReferenceNode.sr" "StillVine_ReferenceRN2.sr";
+connectAttr "group_VineControles_rotateY.o" "StillVine_ReferenceRN2.phl[1]";
+connectAttr "group_VineControles_rotateX.o" "StillVine_ReferenceRN2.phl[2]";
+connectAttr "group_VineControles_rotateZ.o" "StillVine_ReferenceRN2.phl[3]";
+connectAttr "group_VineControles_translateX.o" "StillVine_ReferenceRN2.phl[4]";
+connectAttr "group_VineControles_translateY.o" "StillVine_ReferenceRN2.phl[5]";
+connectAttr "group_VineControles_translateZ.o" "StillVine_ReferenceRN2.phl[6]";
+connectAttr "group_VineControles_scaleZ.o" "StillVine_ReferenceRN2.phl[7]";
+connectAttr "group_VineControles_scaleX.o" "StillVine_ReferenceRN2.phl[8]";
+connectAttr "group_VineControles_scaleY.o" "StillVine_ReferenceRN2.phl[9]";
+connectAttr "group_VineControles_visibility.o" "StillVine_ReferenceRN2.phl[10]";
 connectAttr "pCylinder1SG.pa" ":renderPartition.st" -na;
 connectAttr "pCone1SG.pa" ":renderPartition.st" -na;
 connectAttr "pCylinder2SG.pa" ":renderPartition.st" -na;
@@ -74089,4 +75056,4 @@ connectAttr "RaymanCharacter_Reference:defaultRenderLayer.msg" ":defaultRenderin
 		 -na;
 connectAttr "Teensies_Reffrences:defaultRenderLayer.msg" ":defaultRenderingList1.r"
 		 -na;
-// End of MainScene.ma
+// End of _MainScene.ma
