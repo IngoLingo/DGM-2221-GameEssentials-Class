@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: e283f191f1e4d044cb74dc764ae4485e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cluster10Handle
+    100002: cluster11Handle
+    100004: cluster12Handle
+    100006: cluster13Handle
+    100008: cluster14Handle
+    100010: cluster15Handle
+    100012: cluster16Handle
+    100014: cluster17Handle
+    100016: cluster18Handle
+    100018: cluster19Handle
+    100020: cluster1Handle
+    100022: cluster20Handle
+    100024: cluster21Handle
+    100026: cluster22Handle
+    100028: cluster23Handle
+    100030: cluster24Handle
+    100032: cluster25Handle
+    100034: cluster26Handle
+    100036: cluster27Handle
+    100038: cluster28Handle
+    100040: cluster2Handle
+    100042: cluster3Handle
+    100044: cluster4Handle
+    100046: cluster5Handle
+    100048: cluster6Handle
+    100050: cluster7Handle
+    100052: cluster8Handle
+    100054: cluster9Handle
+    100056: ctrl_VineJoint1
+    100058: ctrl_VineJoint10
+    100060: ctrl_VineJoint11
+    100062: ctrl_VineJoint12
+    100064: ctrl_VineJoint13
+    100066: ctrl_VineJoint14
+    100068: ctrl_VineJoint15
+    100070: ctrl_VineJoint16
+    100072: ctrl_VineJoint17
+    100074: ctrl_VineJoint18
+    100076: ctrl_VineJoint19
+    100078: ctrl_VineJoint2
+    100080: ctrl_VineJoint20
+    100082: ctrl_VineJoint21
+    100084: ctrl_VineJoint22
+    100086: ctrl_VineJoint23
+    100088: ctrl_VineJoint24
+    100090: ctrl_VineJoint25
+    100092: ctrl_VineJoint26
+    100094: ctrl_VineJoint27
+    100096: ctrl_VineJoint28
+    100098: ctrl_VineJoint3
+    100100: ctrl_VineJoint4
+    100102: ctrl_VineJoint5
+    100104: ctrl_VineJoint6
+    100106: ctrl_VineJoint7
+    100108: ctrl_VineJoint8
+    100110: ctrl_VineJoint9
+    100112: DoNotDeleat
+    100114: flower
+    100116: flower 1
+    100118: flower 2
+    100120: geo_vinePart1
+    100122: geo_vinePart2
+    100124: geo_vinePart3
+    100126: group_allFlower1
+    100128: group_allFlower2
+    100130: group_allFlower3
+    100132: group_Vine
+    100134: group_VineControles
+    100136: group_VineParts
+    100138: ikHandle1
+    100140: joint1
+    100142: joint10
+    100144: joint11
+    100146: joint12
+    100148: joint13
+    100150: joint14
+    100152: joint15
+    100154: joint16
+    100156: joint17
+    100158: joint18
+    100160: joint19
+    100162: joint2
+    100164: joint20
+    100166: joint21
+    100168: joint22
+    100170: joint23
+    100172: joint24
+    100174: joint25
+    100176: joint26
+    100178: joint27
+    100180: joint28
+    100182: joint3
+    100184: joint4
+    100186: joint5
+    100188: joint6
+    100190: joint7
+    100192: joint8
+    100194: joint9
+    100196: left
+    100198: stamen1
+    100200: stamen1 1
+    100202: stamen1 2
+    100204: stamen2
+    100206: stamen2 1
+    100208: stamen2 2
+    100210: stamen3
+    100212: stamen3 1
+    100214: stamen3 2
+    100216: stamen4
+    100218: stamen4 1
+    100220: stamen4 2
+    100222: //RootNode
+    100224: Thorns_Flowrs
+    100226: vineThorn1_1
+    100228: vineThorn2_1
+    100230: vineThorn3_1
+    400000: cluster10Handle
+    400002: cluster11Handle
+    400004: cluster12Handle
+    400006: cluster13Handle
+    400008: cluster14Handle
+    400010: cluster15Handle
+    400012: cluster16Handle
+    400014: cluster17Handle
+    400016: cluster18Handle
+    400018: cluster19Handle
+    400020: cluster1Handle
+    400022: cluster20Handle
+    400024: cluster21Handle
+    400026: cluster22Handle
+    400028: cluster23Handle
+    400030: cluster24Handle
+    400032: cluster25Handle
+    400034: cluster26Handle
+    400036: cluster27Handle
+    400038: cluster28Handle
+    400040: cluster2Handle
+    400042: cluster3Handle
+    400044: cluster4Handle
+    400046: cluster5Handle
+    400048: cluster6Handle
+    400050: cluster7Handle
+    400052: cluster8Handle
+    400054: cluster9Handle
+    400056: ctrl_VineJoint1
+    400058: ctrl_VineJoint10
+    400060: ctrl_VineJoint11
+    400062: ctrl_VineJoint12
+    400064: ctrl_VineJoint13
+    400066: ctrl_VineJoint14
+    400068: ctrl_VineJoint15
+    400070: ctrl_VineJoint16
+    400072: ctrl_VineJoint17
+    400074: ctrl_VineJoint18
+    400076: ctrl_VineJoint19
+    400078: ctrl_VineJoint2
+    400080: ctrl_VineJoint20
+    400082: ctrl_VineJoint21
+    400084: ctrl_VineJoint22
+    400086: ctrl_VineJoint23
+    400088: ctrl_VineJoint24
+    400090: ctrl_VineJoint25
+    400092: ctrl_VineJoint26
+    400094: ctrl_VineJoint27
+    400096: ctrl_VineJoint28
+    400098: ctrl_VineJoint3
+    400100: ctrl_VineJoint4
+    400102: ctrl_VineJoint5
+    400104: ctrl_VineJoint6
+    400106: ctrl_VineJoint7
+    400108: ctrl_VineJoint8
+    400110: ctrl_VineJoint9
+    400112: DoNotDeleat
+    400114: flower
+    400116: flower 1
+    400118: flower 2
+    400120: geo_vinePart1
+    400122: geo_vinePart2
+    400124: geo_vinePart3
+    400126: group_allFlower1
+    400128: group_allFlower2
+    400130: group_allFlower3
+    400132: group_Vine
+    400134: group_VineControles
+    400136: group_VineParts
+    400138: ikHandle1
+    400140: joint1
+    400142: joint10
+    400144: joint11
+    400146: joint12
+    400148: joint13
+    400150: joint14
+    400152: joint15
+    400154: joint16
+    400156: joint17
+    400158: joint18
+    400160: joint19
+    400162: joint2
+    400164: joint20
+    400166: joint21
+    400168: joint22
+    400170: joint23
+    400172: joint24
+    400174: joint25
+    400176: joint26
+    400178: joint27
+    400180: joint28
+    400182: joint3
+    400184: joint4
+    400186: joint5
+    400188: joint6
+    400190: joint7
+    400192: joint8
+    400194: joint9
+    400196: left
+    400198: stamen1
+    400200: stamen1 1
+    400202: stamen1 2
+    400204: stamen2
+    400206: stamen2 1
+    400208: stamen2 2
+    400210: stamen3
+    400212: stamen3 1
+    400214: stamen3 2
+    400216: stamen4
+    400218: stamen4 1
+    400220: stamen4 2
+    400222: //RootNode
+    400224: Thorns_Flowrs
+    400226: vineThorn1_1
+    400228: vineThorn2_1
+    400230: vineThorn3_1
+    2000000: left
+    2100000: RL_OC_Vine
+    2100002: RL_OC_ThornsFlowers
+    4300000: geo_vinePart1
+    4300002: geo_vinePart2
+    4300004: geo_vinePart3
+    4300006: vineThorn3_1
+    4300008: flower
+    4300010: stamen1
+    4300012: stamen2
+    4300014: stamen3
+    4300016: stamen4
+    4300018: vineThorn2_1
+    4300020: flower
+    4300022: stamen1
+    4300024: stamen2
+    4300026: stamen3
+    4300028: stamen4
+    4300030: vineThorn1_1
+    4300032: flower
+    4300034: stamen1
+    4300036: stamen2
+    4300038: stamen3
+    4300040: stamen4
+    9500000: //RootNode
+    13700000: flower
+    13700002: flower 1
+    13700004: flower 2
+    13700006: geo_vinePart1
+    13700008: geo_vinePart2
+    13700010: geo_vinePart3
+    13700012: stamen1
+    13700014: stamen1 1
+    13700016: stamen1 2
+    13700018: stamen2
+    13700020: stamen2 1
+    13700022: stamen2 2
+    13700024: stamen3
+    13700026: stamen3 1
+    13700028: stamen3 2
+    13700030: stamen4
+    13700032: stamen4 1
+    13700034: stamen4 2
+    13700036: vineThorn1_1
+    13700038: vineThorn2_1
+    13700040: vineThorn3_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
